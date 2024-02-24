@@ -1,6 +1,11 @@
-# Duets in Latent Spaces
+# duets in datent spaces
 
-**Performance + software + sound + concept by Marlon Barrios Solano**
+**performance + software + sound + concept by marlon barrios solano**
+
+
+https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/372e0a1a-a565-49f7-b781-56f3f0966cd2
+
+
 
 *This is the unseeable space in which machine learning makes its meaning. Beyond that which we are incapable of visualizing is that which we are incapable of even understanding.* - James Bridle
 
@@ -34,6 +39,10 @@ Marlon Barrios Solano explores an unknown probability space and the generative p
 - **Model:** MediaPipe Pose Landmark
 - [GitHub Repository](https://github.com/marlonbarrios/impossible-simplicity)
 - [YouTube Video](https://www.youtube.com/watch?v=whND6od5Rd8)
+
+
+https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-f48f-4f96-844c-c17d0b2be14c
+
 
 ### Remembering Steve Paxton (1939-2024)
 
