@@ -1,4 +1,4 @@
-# duets in datent spaces
+# duets in latent spaces
 
 **performance + software + sound + concept by marlon barrios solano**
 
