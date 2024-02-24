@@ -17,7 +17,7 @@ Marlon Barrios Solano explores an unknown probability space and the generative p
 
 - **Model:** MediaPipeGesture Recognition
 - [GitHub Repository](https://github.com/marlonbarrios/extraordinary-alien)
-- **Music by:** Max Cooper
+
 
 ### Entropic Haiku
 
@@ -38,7 +38,6 @@ Marlon Barrios Solano explores an unknown probability space and the generative p
 
 - **Model:** MediaPipe Pose Landmark
 - [GitHub Repository](https://github.com/marlonbarrios/impossible-simplicity)
-- [YouTube Video](https://www.youtube.com/watch?v=whND6od5Rd8)
 
 
 https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-f48f-4f96-844c-c17d0b2be14c
