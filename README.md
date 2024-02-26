@@ -17,7 +17,9 @@ Moreover, "Duets in Latent Spaces" extends beyond the performance realm into liv
 This work is a mutable invitation to ponder the unseen forces that mold our digital and physical existence, offering a nuanced perspective on the intricate relationship between human cognition and artificial intelligence. Through this work, I challenge audiences to reflect on the invisible dimensions that influence our world, bridging the gap between the known and the unknowable with each performance and application.
 
 It has been performed at:
+
 -. ACCAD Future Tech | The Ohio Stare University OSU Dance (Online) February 22nd 2024
+
 -. Unfinished Fridays @ Berlin Lake Studios February 23rd 2024.
 
 ## Nodes
