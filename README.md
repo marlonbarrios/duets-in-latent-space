@@ -14,7 +14,7 @@ Central to the performance are several technologies: p5.js, enabling creative co
 
 Moreover, "Duets in Latent Spaces" extends beyond the performance realm into live, interactive applications, making the underlying technology directly accessible. The apps themselves, alongside their source code, are available, inviting further exploration and engagement from the audience and the broader community. This transparency aims to demystify the technology, encouraging a hands-on understanding and critical examination of AI's role in shaping our perceptions of identity, creativity, and reality.
 
-THis work is an invitation to ponder the unseen forces that mold our digital and physical existence, offering a nuanced perspective on the intricate relationship between human cognition and artificial intelligence. Through this work, I challenge audiences to reflect on the invisible dimensions that influence our world, bridging the gap between the known and the unknowable with each performance and application.
+This work is a mutable invitation to ponder the unseen forces that mold our digital and physical existence, offering a nuanced perspective on the intricate relationship between human cognition and artificial intelligence. Through this work, I challenge audiences to reflect on the invisible dimensions that influence our world, bridging the gap between the known and the unknowable with each performance and application.
 
 It has been performed at:
 -. ACCAD Future Tech | The Ohio Stare University OSU Dance (Online) February 22nd 2024
