@@ -1,20 +1,20 @@
 # duets in latent spaces
 
-**performance + software + sound + concept by marlon barrios solano**
+**performance + embodied interactivity + creative coding + generative AI + sound + concept by marlon barrios solano**
 
 https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/372e0a1a-a565-49f7-b781-56f3f0966cd2
 
 *This is the unseeable space in which machine learning makes its meaning. Beyond that which we are incapable of visualizing is that which we are incapable of even understanding.* - James Bridle
 
-In "Duets in Latent Spaces," I navigate the domain where machine learning finds its meaning, inspired by James Bridle's contemplation on the spaces beyond our capacity to visualize or understand. This endeavor is conceptualized as a lecture-performance, designed to bridge the realms of the tangible and virtual, facilitating presentations both in person and online. It unfolds through a series of vignettes, each spanning 3 to 5 minutes, that illuminate the generative potential of human-AI interaction, inviting the audience into a collaborative narrative that melds human intuition with algorithmic precision.
+In "Duets in Latent Spaces," I navigate the domain where machine learning finds its meaning, inspired by James Bridle's contemplation on the spaces beyond our capacity to visualize or understand. This endeavor is conceptualized as a lecture-performance, designed to bridge the realms of the tangible and virtual, facilitating presentations both in person and online. It unfolds through a series of vignettes (inerfaces, software and movement scores), each spanning 3 to 5 minutes, that illuminate the generative potential of human-AI interaction, inviting the audience into a collaborative narrative that melds human intuition, storytelling  with algorithmic precision.
 
-Each segment is woven with personal stories, dance, histories about cybernetics, migration, post-coloniality and choreography. They venture into uncharted probability spaces, powered by bespoke applications I've developed to interface with advanced generative AI and machine learning models. These interactions forge immersive experiences that delve into the deep, unseen dimensions of data. By manipulating inputs, actions, and prompts, I navigate the AI models' generative processes, forging a unique cognitive link with evolving texts, images, and soundscapes set within the ethereal spaces of desire, memory, and digital consciousness.
+Each segment is woven with personal stories, dance, histories about cybernetics, migration, post-coloniality and choreography. They venture into uncharted probability spaces, powered by bespoke applications I've developed to interface with advanced generative AI and machine learning models. These interactions forge immersive experiences that delve into the deep, unseen dimensions of data, cultural memory and language. By manipulating inputs, actions, and prompts, I navigate the AI models' generative processes, forging unique cognitive links with evolving texts, images, and soundscapes set within the ethereal spaces of desire, affect, memory, and hybrid consciousness.
 
-Central to the performance are several technologies: p5.js, enabling creative coding in the browser; Next.js, for rendering server-side React applications; Large Language Models (LLMs), offering extensive capabilities for generating human-like text; and Generative Adversarial Networks (GANs), known for producing highly realistic images. These technologies underpin the performance, facilitating REAL-TIME dynamic interactions that highlight the creative and contemplative capacities of generative AI.
+Central to the performance are several technologies: p5.js, enabling creative coding in the browser; Next.js, for rendering server-side React applications; Large Language Models (LLMs), offering extensive capabilities for generating human-like text; and Generative Adversarial Networks (GANs), known for producing highly realistic images. These technologies underpin the performance, emphasizing REAL-TIME dynamic interactions that highlight the creative and epistemic challanges of generative AI.
 
-Moreover, "Duets in Latent Spaces" extends beyond the performance realm into live, interactive applications, making the underlying technology directly accessible. The apps themselves, alongside their source code, are available, inviting further exploration and engagement from the audience and the broader community. This transparency aims to demystify the technology, encouraging a hands-on understanding and critical examination of AI's role in shaping our perceptions of identity, creativity, and reality.
+Moreover, "Duets in Latent Spaces" extends beyond the performance realm into live, interactive applications, making the underlying technology directly accessible. The apps themselves, alongside their source code, are freely available, inviting further exploration and engagement from the audience and the broader community. This transparency aims to demystify the technology, encouraging a hands-on understanding and critical examination of AI's role in shaping our perceptions of identity, creativity, and reality.
 
-This work is a mutable invitation to ponder the unseen forces that mold our digital and physical existence, offering a nuanced perspective on the intricate relationship between human cognition and artificial intelligence. Through this work, I challenge audiences to reflect on the invisible dimensions that influence our world, bridging the gap between the known and the unknowable with each performance and application.
+This project and each node is a mutable invitation to ponder the unseen forces that mold our digital and physical existence, offering a nuanced perspective on the intricate relationship between human cognition and artificial intelligence. Through this work, I challenge audiences to reflect on the invisible dimensions that influence our world, bridging the gap between the known and the unknowable latent space of entropic creativity.
 
 It has been performed at:
 
@@ -24,30 +24,35 @@ It has been performed at:
 
 ## Nodes
 
+### Hyper-elements in Latent Space
+- **Model:** Stable Diffusion XL
+- **Perlin Noise**
+  - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/perlin-noise-latent-space)
+
 ### Extraordinary Alien
 
 - **Model:** MediaPipeGesture Recognition
-- [GitHub Repository](https://github.com/marlonbarrios/extraordinary-alien)
+- [GitHub Repository with project description, code and live app](h)
 
 ### Entropic Haiku
 
 - **Model:** GPT-4
-- [GitHub Repository](https://github.com/marlonbarrios/entropic_haiku)
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)
 
 ### In Pursuit of Stolen Ghosts
 
 - **Model:** Stable Diffusion XL
-- [GitHub Repository](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)
 
 ### Bauhaus Time Traveller
 
 - **Model:** Stable Diffusion XL
-- [GitHub Repository](https://github.com/marlonbarrios/bauhaus-time-traveler)
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)
 
 ### Impossible Simplicity
 
 - **Model:** MediaPipe Pose Landmark
-- [GitHub Repository](https://github.com/marlonbarrios/impossible-simplicity)
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossible-simplicity)
 
 
 https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-f48f-4f96-844c-c17d0b2be14c
