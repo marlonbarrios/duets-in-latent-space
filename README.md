@@ -27,7 +27,7 @@ It has been performed at:
 ### Hyper-elements in Latent Space
 - **Model:** Stable Diffusion XL
 - **Perlin Noise**
-  - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/perlin-noise-latent-space)
+- GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/perlin-noise-latent-space)
 
 ### Extraordinary Alien
 
