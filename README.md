@@ -45,10 +45,16 @@ It can be adapted to be presented as installation-performances, installations, o
 - [LIVE APP](https://hyperelement.vercel.app/)
 
 ### Pulling Molecules
-
 - **Model:** MediaPipeGesture Recognition
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/pulling-molecules)
 - [LIVE APP](https://marlonbarrios.github.io/pulling-molecules/)
+
+
+### A Hand is four relationships
+- **Model:** MediaPipeGesture Recognition
+- [GitHub Repository with project description  code and live app](https://github.com/marlonbarrios/ahandisfourrelationships)
+- [LIVE APP](https://marlonbarrios.github.io/ahandisfourrelationships/)
+
 
 ### Extraordinary Alien
 
@@ -75,7 +81,7 @@ It can be adapted to be presented as installation-performances, installations, o
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)
 - [LIVE APP](https://bauhaus-time-traveler.vercel.app/)
 
-### Bauhaus Time Traveller STRIPPER
+### Bauhaus Time Traveller STRIPPERS
 
 - **Model:** Stable Diffusion XL
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler-strippers)
