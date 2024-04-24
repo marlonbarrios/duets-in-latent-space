@@ -75,6 +75,12 @@ It can be adapted to be presented as installation-performances, installations, o
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)
 - [LIVE APP](https://bauhaus-time-traveler.vercel.app/)
 
+### Bauhaus Time Traveller STRIPPER
+
+- **Model:** Stable Diffusion XL
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler-strippers)
+- [LIVE APP](https://bauhaus-timetraveler-stripper.vercel.app/)
+
 
 ### Impossible Simplicity
 
