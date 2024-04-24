@@ -38,11 +38,7 @@ It can be adapted to be presented as installation-performances, installations, o
 
 ## Nodes
 
-### Hyper-elements in Latent Space
-- **Model:** Stable Diffusion XL
-- **Perlin Noise**
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/perlin-noise-latent-space)
-- [LIVE APP](https://hyperelement.vercel.app/)
+
 
 ### Pulling Molecules
 - **Model:** MediaPipeGesture Recognition
@@ -68,12 +64,27 @@ It can be adapted to be presented as installation-performances, installations, o
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)
 - [LIVE APP](https://entropic-haiku.vercel.app/)
 
-### In Pursuit of Stolen Ghosts
+### In Pursuit of Stolen Ghosts (DRAWING TOOL VERSION)
 
 - **Model:** Stable Diffusion XL
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)
 - [LIVE APP](https://in-pursuit-of-stolen-ghosts.vercel.app/)
-- 
+
+
+### In Pursuit of Stolen Ghosts (GENERATIVE-INTERACTIVE VERSION AND BROWN COLORS)
+
+- **Model:** Stable Diffusion XL
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/inpursuitofstolenghosts?tab=readme-ov-file)
+- [LIVE APP](https://inpursuitoftolenghosts.vercel.app/)
+
+
+
+### Hyper-elements in Latent Space
+- **Model:** Stable Diffusion XL
+- **Perlin Noise**
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/perlin-noise-latent-space)
+- [LIVE APP](https://hyperelement.vercel.app/)
+
 
 ### Bauhaus Time Traveller
 
