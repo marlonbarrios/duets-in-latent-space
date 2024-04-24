@@ -39,6 +39,12 @@ It can be adapted to be presented as installation-performances, installations, o
 ## Nodes
 
 
+### Hyper-elements in Latent Space
+- **Model:** Stable Diffusion XL
+- **Perlin Noise**
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/perlin-noise-latent-space)
+- [LIVE APP](https://hyperelement.vercel.app/)
+
 
 ### Pulling Molecules
 - **Model:** MediaPipeGesture Recognition
@@ -76,14 +82,6 @@ It can be adapted to be presented as installation-performances, installations, o
 - **Model:** Stable Diffusion XL
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/inpursuitofstolenghosts?tab=readme-ov-file)
 - [LIVE APP](https://inpursuitoftolenghosts.vercel.app/)
-
-
-
-### Hyper-elements in Latent Space
-- **Model:** Stable Diffusion XL
-- **Perlin Noise**
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/perlin-noise-latent-space)
-- [LIVE APP](https://hyperelement.vercel.app/)
 
 
 ### Bauhaus Time Traveller
