@@ -104,6 +104,15 @@ It can be adapted to be presented as installation-performances, installations, o
 - [LIVE APP](https://marlonbarrios.github.io/impossible-simplicity/)
 
 
+### The Body of the Text
+
+- **Model:** MediaPipe Pose Landmark
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/the_body_of_the_text)
+- [LIVE APP](https://marlonbarrios.github.io/the_body_of_the_text/)
+
+https://github.com/marlonbarrios/the_body_of_the_text
+
+
 https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-f48f-4f96-844c-c17d0b2be14c
 
 
