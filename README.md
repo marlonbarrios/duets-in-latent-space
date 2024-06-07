@@ -2,7 +2,7 @@
 
 **performance + embodied interactivity + creative coding + generative AI + sound + concept by marlon barrios solano**
 
-https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/372e0a1a-a565-49f7-b781-56f3f0966cd2
+![Screenshot 2024-06-07 at 9 58 25 AM](https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/f6f832c6-908b-4d04-9929-544c2aab555c)
 
 *This is the unseeable space in which machine learning makes its meaning. Beyond that which we are incapable of visualizing is that which we are incapable of even understanding.* - James Bridle
 
