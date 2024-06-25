@@ -1,4 +1,4 @@
-# duets in latent spaces
+# duets in latent space
 
 **performance + embodied interactivity + creative coding + generative AI + sound + concept by marlon barrios solano**
 
@@ -8,23 +8,16 @@
 
 Latent space, in the realm of machine learning and artificial intelligence, refers to a high-dimensional abstract space where data’s intrinsic, hidden features are represented in a compressed form. This space is particularly significant in the context of generative models, such as Generative Adversarial Networks (GANs) and transformers, where it serves as the groundwork for the models to learn, encode, and manipulate the underlying patterns of the data they’re trained on. By navigating through this latent space, these models can generate new instances of data that, while reflective of the learned patterns, are distinct and original.
 
-In “Duets in Latent Space,” embodies a live collaboration between the artist or user— situated before a laptop — and generative AI models that reside within this enigmatic latent space. Through various forms of input, whether they be movements, sounds, or digital interactions, the AI responds in kind, generating visual, auditory, or textual outputs that are played back in real time.
+“Duets in Latent Space,” is a live collaboration between the artist — situated before a laptop — and machine learning models and their  enigmatic latent space. Through various forms of input, whether they be movements, sounds, or digital interactions, the AI responds in kind, generating visual, auditory, or textual outputs that are played back in real time.
 
-In “Duets in Latent Spaces,” I navigate different trajectories in the domain where machine learning finds its meaning inspired by James Bridle’s contemplation on locating these spaces beyond our capacity to visualize or understand.
-
-“Duets in Latent Spaces” is conceptualized as a lecture-performance, installation and webpages, designed to bridge the realms of the tangible, the remembered and the speculative, facilitating presentations both in person and online.
-
-This project unfolds through a series of vignettes combining stories, re-tellings, interfaces, software, movement scores and re-performances, each spanning 3 to 7 minutes, that illuminate trajectories of the generative potential of human-AI interaction, inviting the audience into a collaborative narrative that melds human intuition, storytelling with algorithmic playfulness.
-
-Each segment is woven with personal stories, dances, histories about cybernetics, migration, post-coloniality and choreographic thinking. They venture into uncharted probability spaces, powered by bespoke applications I’ve developed to interface with advanced generative AI models and machine learning models for body and gesture recognition.
+“Duets in Latent Spaces” is conceived  as a lecture-performance interacting with web apps  programmed by the artist, attempting to make  tangible the remembered, the affective and the speculative. It combines a series of vignettes, story-telling,  interfaces, software, movement scores and re-performances, weaving  trajectories of cybernetics, time travel, queer longing, recursion and migrations with algorithmic playfulness.
 
 These interactions forge semantic and action landscapes that delve into the deep, unseen dimensions of data, cultural memory and language. By reversing the hegemonic narratives of generative AI and manipulating inputs, actions, and prompts, I navigate the AI models’ generative processes exploring their emancipatory potential, forging unique cognitive recombinations with evolving texts, images, and soundscapes set within the ethereal spaces of desire, affect, memory, longing and hybrid materiality.
 
 Central to this project are several technologies: p5.js, enabling creative coding in the browser; Next.js, for rendering server-side React applications; machine learning models for hangs gesture and body movement recognition; humansLarge Language Models (LLMs), offering extensive capabilities for generating human-like text; and Generative Adversarial Networks (GANs), known for producing highly realistic images. These technologies underpin the performance, emphasizing REAL-TIME dynamic interactions that highlight the creative and epistemic challenges of generative AI.
 
-Moreover, “Duets in Latent Spaces” extends beyond the performance realm into live, interactive applications, making the underlying technology directly accessible. The apps themselves, alongside their source code, are freely available, inviting further exploration and engagement from the audience and the broader community. This transparency aims to demystify the technology, encouraging a hands-on understanding and critical examination of AI’s role in shaping our perceptions of identity, creativity, and reality.
 
-This project and each node is a mutable invitation to ponder the unseen forces that mold our digital and physical existence (as memory and imagination), offering a nuanced perspective on the intricate relationship between human cognition and artificial intelligence. Through this work, I challenge audiences to reflect on the invisible dimensions that influence our world, inhabiting the gap between the known and the unknowable latent space of entropic creativity.
+Aproximate duration 22-25 minutes
 
 It has been presented at:
 
@@ -34,10 +27,9 @@ It has been presented at:
 
 -. Unfinished Fridays @ Berlin Lake Studios February 23rd 2024.
 
-It can be adapted to be presented as installation-performances, installations, online apps and as line and online lecture-performance.
+It can be adapted to be presented as installation-performances, installations, online apps and as in-person and online lecture-performance.
 
-## Nodes
-
+## Nodes or Vignetes
 
 ### Hyper-elements in Latent Space
 - **Model:** Stable Diffusion XL
