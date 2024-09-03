@@ -31,7 +31,7 @@ It can be adapted to be presented as installation-performances, installations, o
 
 ## Nodes or Vignetes
 
-### Canonical (memory warmup)
+### Canonical (memory warmup/accumulation in Space and time))
 
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/canonical01?tab=readme-ov-file)
 - [LIVE APP](https://marlonbarrios.github.io/canonical01/)
