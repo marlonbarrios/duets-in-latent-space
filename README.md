@@ -31,18 +31,62 @@ It can be adapted to be presented as installation-performances, installations, o
 
 ## Nodes or Vignetes
 
-### Canonical (memory warmup/accumulation in Space and time))
+### Walking in an exagerated Manner
 
+[Video](https://www.artforum.com/video/bruce-naumans-walking-in-an-exaggerated-manner-161646/)
+
+### Canonical (memory warmup/accumulation in Space and time))
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/canonical01?tab=readme-ov-file)
 - [LIVE APP](https://marlonbarrios.github.io/canonical01/)
 
+### Conversations with a Possible Mind
+- [LIVE APP](https://empathic-voice-interface-starter-khyysvvqd.vercel.app/)
 
-### Hyper-elements in Latent Space
+
+### Extraordinary Alien
+- **Model:** MediaPipeGesture Recognition
+- [GitHub Repository with project description, code and live app](https://marlonbarrios.github.io/extraordinary-alien/)
+- [LIVE APP](https://marlonbarrios.github.io/extraordinary-alien/)
+
+### Entropic Haiku
+- **Model:** GPT-4
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)
+- [LIVE APP](https://entropic-haiku.vercel.app/)
+
+### In Pursuit of Stolen Ghosts (DRAWING TOOL VERSION)
+- **Model:** Stable Diffusion XL
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)
+- [LIVE APP](https://in-pursuit-of-stolen-ghosts.vercel.app/)
+
+### In Pursuit of Stolen Ghosts (GENERATIVE-INTERACTIVE VERSION AND BROWN COLORS)
+- **Model:** Stable Diffusion XL
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/inpursuitofstolenghosts?tab=readme-ov-file)
+- [LIVE APP](https://inpursuitoftolenghosts.vercel.app/)
+
+### Bauhaus Time Traveller
+- **Model:** Stable Diffusion XL
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)
+- [LIVE APP](https://bauhaus-time-traveler.vercel.app/)
+
+### Bauhaus Time Traveller STRIPPERS
+- **Model:** Stable Diffusion XL
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler-strippers)
+- [LIVE APP](https://bauhaus-timetraveler-stripper.vercel.app/)
+
+### Impossible Simplicity
+- **Model:** MediaPipe Pose Landmark
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossible-simplicity)
+- [LIVE APP](https://marlonbarrios.github.io/impossible-simplicity/)
+
+
+### Hyper-elements in Latent Space (Autonomous Duet)
 - **Model:** Stable Diffusion XL
 - **Perlin Noise**
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/perlin-noise-latent-space)
 - [LIVE APP](https://hyperelement.vercel.app/)
 
+
+________________________________________
 
 ### Pulling Molecules
 - **Model:** MediaPipeGesture Recognition
@@ -55,51 +99,6 @@ It can be adapted to be presented as installation-performances, installations, o
 - [GitHub Repository with project description  code and live app](https://github.com/marlonbarrios/ahandisfourrelationships)
 - [LIVE APP](https://marlonbarrios.github.io/ahandisfourrelationships/)
 
-
-### Extraordinary Alien
-
-- **Model:** MediaPipeGesture Recognition
-- [GitHub Repository with project description, code and live app](https://marlonbarrios.github.io/extraordinary-alien/)
-- [LIVE APP](https://marlonbarrios.github.io/extraordinary-alien/)
-
-### Entropic Haiku
-
-- **Model:** GPT-4
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)
-- [LIVE APP](https://entropic-haiku.vercel.app/)
-
-### In Pursuit of Stolen Ghosts (DRAWING TOOL VERSION)
-
-- **Model:** Stable Diffusion XL
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)
-- [LIVE APP](https://in-pursuit-of-stolen-ghosts.vercel.app/)
-
-
-### In Pursuit of Stolen Ghosts (GENERATIVE-INTERACTIVE VERSION AND BROWN COLORS)
-
-- **Model:** Stable Diffusion XL
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/inpursuitofstolenghosts?tab=readme-ov-file)
-- [LIVE APP](https://inpursuitoftolenghosts.vercel.app/)
-
-
-### Bauhaus Time Traveller
-
-- **Model:** Stable Diffusion XL
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)
-- [LIVE APP](https://bauhaus-time-traveler.vercel.app/)
-
-### Bauhaus Time Traveller STRIPPERS
-
-- **Model:** Stable Diffusion XL
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler-strippers)
-- [LIVE APP](https://bauhaus-timetraveler-stripper.vercel.app/)
-
-
-### Impossible Simplicity
-
-- **Model:** MediaPipe Pose Landmark
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossible-simplicity)
-- [LIVE APP](https://marlonbarrios.github.io/impossible-simplicity/)
 
 
 ### The Body of the Text
