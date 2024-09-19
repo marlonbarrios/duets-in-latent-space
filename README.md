@@ -4,7 +4,7 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/ab8fb003-3c48-417f-91e5-b80ed808e03f" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/ab8fb003-3c48-417f-91e5-b80ed808e03f" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 
 *This is the unseeable space in which machine learning makes its meaning. Beyond that which we are incapable of visualizing is that which we are incapable of even understanding.* - James Bridle
 
