@@ -2,9 +2,8 @@
 
 **performance + creative coding + generative AI + sound + concept by marlon barrios solano**
 
-
-
 <img src="https://github.com/user-attachments/assets/ab8fb003-3c48-417f-91e5-b80ed808e03f" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+
 
 *This is the unseeable space in which machine learning makes its meaning. Beyond that which we are incapable of visualizing is that which we are incapable of even understanding.* - James Bridle
 
@@ -18,8 +17,10 @@ These interactions forge semantic and action landscapes that delve into the deep
 
 Central to this project are several technologies: p5.js, enabling creative coding in the browser; Next.js, for rendering server-side React applications; machine learning models for hangs gesture and body movement recognition; humansLarge Language Models (LLMs), offering extensive capabilities for generating human-like text; and Generative Adversarial Networks (GANs), known for producing highly realistic images. These technologies underpin the performance, emphasizing REAL-TIME dynamic interactions that highlight the creative and epistemic challenges of generative AI.
 
+<img src="https://github.com/user-attachments/assets/0a03501a-93c5-40e3-b4aa-00d8624c972d" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 
-Duration 25 to 45 minutes and is adjusted based on the context and venue.
+Duration from 25 to 45 minutes adjusted to the context and venue.
+
 
 It has been presented at:
 
