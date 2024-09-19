@@ -21,7 +21,7 @@ Aproximate duration 22-25 minutes
 
 It has been presented at:
 
--. 
+-. ICA 2024 Live Arts festival in Cape Town, Sourt Africa Sepet 5th 2024.
 
 -. Generative AI, Arts and Ethics, think-tank at Chateau de Fey, France March 5th of March 2024.
 
@@ -41,19 +41,18 @@ It can be adapted to be presented as installation-performances, installations, o
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/canonical01?tab=readme-ov-file)
 - [LIVE APP](https://marlonbarrios.github.io/canonical01/)
 
+### Entropic Haiku
+- **Model:** GPT-4
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)
+- [LIVE APP](https://entropic-haiku.vercel.app/)
+
 ### Conversations with a Possible Mind
 - [LIVE APP](https://empathic-voice-interface-starter-khyysvvqd.vercel.app/)
-
 
 ### Extraordinary Alien
 - **Model:** MediaPipeGesture Recognition
 - [GitHub Repository with project description, code and live app](https://marlonbarrios.github.io/extraordinary-alien/)
 - [LIVE APP](https://marlonbarrios.github.io/extraordinary-alien/)
-
-### Entropic Haiku
-- **Model:** GPT-4
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)
-- [LIVE APP](https://entropic-haiku.vercel.app/)
 
 ### In Pursuit of Stolen Ghosts (DRAWING TOOL VERSION)
 - **Model:** Stable Diffusion XL
@@ -79,7 +78,6 @@ It can be adapted to be presented as installation-performances, installations, o
 - **Model:** MediaPipe Pose Landmark
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossible-simplicity)
 - [LIVE APP](https://marlonbarrios.github.io/impossible-simplicity/)
-
 
 ### Hyper-elements in Latent Space (Autonomous Duet)
 - **Model:** Stable Diffusion XL
