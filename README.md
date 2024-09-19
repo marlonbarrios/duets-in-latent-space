@@ -17,7 +17,7 @@ These interactions forge semantic and action landscapes that delve into the deep
 
 Central to this project are several technologies: p5.js, enabling creative coding in the browser; Next.js, for rendering server-side React applications; machine learning models for hangs gesture and body movement recognition; humansLarge Language Models (LLMs), offering extensive capabilities for generating human-like text; and Generative Adversarial Networks (GANs), known for producing highly realistic images. These technologies underpin the performance, emphasizing REAL-TIME dynamic interactions that highlight the creative and epistemic challenges of generative AI.
 
-<img src="https://github.com/user-attachments/assets/0a03501a-93c5-40e3-b4aa-00d8624c972d" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+
 
 Duration from 25 to 45 minutes adjusted to the context and venue.
 
@@ -33,6 +33,8 @@ It has been presented at:
 -. Unfinished Fridays @ Berlin Lake Studios February 23rd 2024.
 
 It can be adapted to be presented as installation-performances, installations, online apps and as in-person and online lecture-performance.
+
+<img src="hhttps://github.com/user-attachments/assets/a71a294a-c1fb-4da4-a311-ec4f419001a4" alt="Screenshot 2024-08-26 at 2 47 15 PM" >
 
 ## Nodes or Vignetes
 
