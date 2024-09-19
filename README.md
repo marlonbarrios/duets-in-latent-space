@@ -21,6 +21,8 @@ Aproximate duration 22-25 minutes
 
 It has been presented at:
 
+-. 
+
 -. Generative AI, Arts and Ethics, think-tank at Chateau de Fey, France March 5th of March 2024.
 
 -. ACCAD Future Tech | The Ohio Stare University OSU Dance (Online) February 22nd 2024
