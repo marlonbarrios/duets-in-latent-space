@@ -56,7 +56,7 @@ Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the P
 ### Conversations with a Possible Mind
 - [LIVE APP](https://empathic-voice-interface-starter-khyysvvqd.vercel.app/)
 
-<img src="hhttps://github.com/user-attachments/assets/12b06b60-322a-45de-a1c8-5317143d2ec8" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+<img src="https://github.com/user-attachments/assets/12b06b60-322a-45de-a1c8-5317143d2ec8" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 
 ### Extraordinary Alien
 - **Model:** MediaPipeGesture Recognition
