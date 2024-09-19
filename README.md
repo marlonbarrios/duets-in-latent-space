@@ -58,8 +58,6 @@ Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the P
 
 <img src="hhttps://github.com/user-attachments/assets/12b06b60-322a-45de-a1c8-5317143d2ec8" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 
-![ICA-LAF2024-Day3-PressPack-SendA-06092024-MW014](https://github.com/user-attachments/assets/12b06b60-322a-45de-a1c8-5317143d2ec8)
-
 ### Extraordinary Alien
 - **Model:** MediaPipeGesture Recognition
 - [GitHub Repository with project description, code and live app](https://marlonbarrios.github.io/extraordinary-alien/)
