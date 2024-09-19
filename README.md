@@ -33,13 +33,17 @@ It can be adapted to be presented as installation-performances, installations, o
 
 ## Nodes or Vignetes
 
-### Walking in an exagerated Manner
+### Walking in an exagerated Manner arounf the perimeterof a square
 
 [Video](https://www.artforum.com/video/bruce-naumans-walking-in-an-exaggerated-manner-161646/)
+
+Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the Perimeter of a Square (1967-68) served as a template for my  exploration of what is considered canonical or a model. I use the square as a metaphor for inhabiting the alien—performing the alienation that stands in contrast to the normative, disciplined body. By exaggerating movement, Marlon interrogates the boundaries of conceptual experimentation, viewing it through the lens of white privilege. This perspective calls attention to how certain bodies and practices are excluded or marginalized within the same conceptual frameworks that define avant-garde art, subtly critiquing the institutionalization of experimentalism as an exclusive realm of white privilege. It reprsents the internalized latent space.
 
 ### Canonical (memory warmup/accumulation in Space and time))
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/canonical01?tab=readme-ov-file)
 - [LIVE APP](https://marlonbarrios.github.io/canonical01/)
+
+### Mr Parker
 
 ### Entropic Haiku
 - **Model:** GPT-4
