@@ -34,7 +34,7 @@ It has been presented at:
 
 It can be adapted to be presented as installation-performances, installations, online apps and as in-person and online lecture-performance.
 
-<img src="hhttps://github.com/user-attachments/assets/a71a294a-c1fb-4da4-a311-ec4f419001a4" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500" >
+<img src="https://github.com/user-attachments/assets/a71a294a-c1fb-4da4-a311-ec4f419001a4" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500" >
 
 ## Nodes or Vignetes
 
