@@ -96,6 +96,8 @@ Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the P
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/perlin-noise-latent-space)
 - [LIVE APP](https://hyperelement.vercel.app/)
 
+https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-f48f-4f96-844c-c17d0b2be14c
+
 
 ________________________________________
 
@@ -117,11 +119,6 @@ ________________________________________
 - **Model:** MediaPipe Pose Landmark
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/the_body_of_the_text)
 - [LIVE APP](https://marlonbarrios.github.io/the_body_of_the_text/)
-
-https://github.com/marlonbarrios/the_body_of_the_text
-
-
-https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-f48f-4f96-844c-c17d0b2be14c
 
 
 ### Remembering Steve Paxton (1939-2024)
