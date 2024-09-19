@@ -34,7 +34,7 @@ It has been presented at:
 
 It can be adapted to be presented as installation-performances, installations, online apps and as in-person and online lecture-performance.
 
-<img src="https://github.com/user-attachments/assets/a71a294a-c1fb-4da4-a311-ec4f419001a4" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500" >
+<img src="https://github.com/user-attachments/assets/a71a294a-c1fb-4da4-a311-ec4f419001a4" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="700" >
 
 ## Nodes or Vignetes
 
@@ -58,7 +58,7 @@ Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the P
 ### Conversations with a Possible Mind
 - [LIVE APP](https://empathic-voice-interface-starter-khyysvvqd.vercel.app/)
 
-<img src="https://github.com/user-attachments/assets/12b06b60-322a-45de-a1c8-5317143d2ec8" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="700">
+<img src="https://github.com/user-attachments/assets/12b06b60-322a-45de-a1c8-5317143d2ec8" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 
 ### Extraordinary Alien
 - **Model:** MediaPipeGesture Recognition
