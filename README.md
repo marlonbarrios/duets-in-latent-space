@@ -17,7 +17,7 @@ These interactions forge semantic and action landscapes that delve into the deep
 Central to this project are several technologies: p5.js, enabling creative coding in the browser; Next.js, for rendering server-side React applications; machine learning models for hangs gesture and body movement recognition; humansLarge Language Models (LLMs), offering extensive capabilities for generating human-like text; and Generative Adversarial Networks (GANs), known for producing highly realistic images. These technologies underpin the performance, emphasizing REAL-TIME dynamic interactions that highlight the creative and epistemic challenges of generative AI.
 
 
-Aproximate duration 22-25 minutes
+Duration 25 to 45 minutes and is adjusted based on the context and venue.
 
 It has been presented at:
 
