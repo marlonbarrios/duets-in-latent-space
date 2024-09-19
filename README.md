@@ -1,6 +1,6 @@
 # duets in latent space
 
-**performance + embodied interactivity + creative coding + generative AI + sound + concept by marlon barrios solano**
+**performance + creative coding + generative AI + sound + concept by marlon barrios solano**
 
 
 
