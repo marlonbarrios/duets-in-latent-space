@@ -10,9 +10,7 @@ Latent space, in the realm of machine learning and artificial intelligence, refe
 
 “Duets in Latent Space,” is a live collaboration between the artist — situated before a laptop — and machine learning models and their  enigmatic latent space. Through various forms of input, whether they be movements, sounds, or digital interactions, the AI responds in kind, generating visual, auditory, or textual outputs that are played back in real time.
 
-
 <img src="https://github.com/user-attachments/assets/febed3f2-e25e-4101-a840-c26f3338998f" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
-
 
 “Duets in Latent Spaces” is conceived  as a lecture-performance interacting with web apps  programmed by the artist, attempting to make  tangible the remembered, the affective and the speculative. It combines a series of vignettes, story-telling,  interfaces, software, movement scores and re-performances, weaving  trajectories of cybernetics, time travel, queer longing, recursion and migrations with algorithmic playfulness.
 
@@ -101,8 +99,7 @@ https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/perlin-noise-latent-space)
 - [LIVE APP](https://hyperelement.vercel.app/)
 
-
-<img src="https://github.com/user-attachments/assets/a71a294a-c1fb-4da4-a311-ec4f419001a4" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+<img src="https://github.com/user-attachments/assets/856fd501-e4b2-45ee-864c-bf7ad6eeff05" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 ________________________________________
 
 ### Pulling Molecules
