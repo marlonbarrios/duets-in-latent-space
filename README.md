@@ -102,7 +102,7 @@ https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-
 - [LIVE APP](https://hyperelement.vercel.app/)
 
 
-<img src="hhttps://github.com/user-attachments/assets/a71a294a-c1fb-4da4-a311-ec4f419001a4" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+<img src="https://github.com/user-attachments/assets/a71a294a-c1fb-4da4-a311-ec4f419001a4" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 ________________________________________
 
 ### Pulling Molecules
