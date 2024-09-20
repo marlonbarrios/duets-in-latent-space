@@ -4,12 +4,16 @@
 
 <img src="https://github.com/user-attachments/assets/ab8fb003-3c48-417f-91e5-b80ed808e03f" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 
-
 *This is the unseeable space in which machine learning makes its meaning. Beyond that which we are incapable of visualizing is that which we are incapable of even understanding.* - James Bridle
 
 Latent space, in the realm of machine learning and artificial intelligence, refers to a high-dimensional abstract space where data’s intrinsic, hidden features are represented in a compressed form. This space is particularly significant in the context of generative models, such as Generative Adversarial Networks (GANs) and transformers, where it serves as the groundwork for the models to learn, encode, and manipulate the underlying patterns of the data they’re trained on. By navigating through this latent space, these models can generate new instances of data that, while reflective of the learned patterns, are distinct and original.
 
 “Duets in Latent Space,” is a live collaboration between the artist — situated before a laptop — and machine learning models and their  enigmatic latent space. Through various forms of input, whether they be movements, sounds, or digital interactions, the AI responds in kind, generating visual, auditory, or textual outputs that are played back in real time.
+
+
+<img src="hhttps://github.com/user-attachments/assets/febed3f2-e25e-4101-a840-c26f3338998f" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+
+<img width="708" alt="Screenshot 2024-09-19 at 8 03 31 PM" src="https://github.com/user-attachments/assets/febed3f2-e25e-4101-a840-c26f3338998f">
 
 “Duets in Latent Spaces” is conceived  as a lecture-performance interacting with web apps  programmed by the artist, attempting to make  tangible the remembered, the affective and the speculative. It combines a series of vignettes, story-telling,  interfaces, software, movement scores and re-performances, weaving  trajectories of cybernetics, time travel, queer longing, recursion and migrations with algorithmic playfulness.
 
@@ -112,8 +116,6 @@ ________________________________________
 - [GitHub Repository with project description  code and live app](https://github.com/marlonbarrios/ahandisfourrelationships)
 - [LIVE APP](https://marlonbarrios.github.io/ahandisfourrelationships/)
 
-
-<img src="https://github.com/user-attachments/assets/b867e78e-ce83-4f68-9676-722acd77c8fb" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="700">
 
 
 ### The Body of the Text
