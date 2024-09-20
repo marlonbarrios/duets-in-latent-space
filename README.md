@@ -51,7 +51,7 @@ Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the P
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/canonical01?tab=readme-ov-file)
 - [LIVE APP](https://marlonbarrios.github.io/canonical01/)
 
-### Mr Parker
+### Mr Parker (in progress)
 
 ### Entropic Haiku
 - **Model:** GPT-4
@@ -62,6 +62,8 @@ Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the P
 - [LIVE APP](https://empathic-voice-interface-starter-khyysvvqd.vercel.app/)
 
 <img src="https://github.com/user-attachments/assets/12b06b60-322a-45de-a1c8-5317143d2ec8" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+
+https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-f48f-4f96-844c-c17d0b2be14c
 
 ### Extraordinary Alien
 - **Model:** MediaPipeGesture Recognition
@@ -99,7 +101,8 @@ Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the P
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/perlin-noise-latent-space)
 - [LIVE APP](https://hyperelement.vercel.app/)
 
-https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-f48f-4f96-844c-c17d0b2be14c
+
+![ICA-LAF2024-Day3-PressPack-SendA-06092024-MW016 2](ttps://github.com/user-attachments/assets/a71a294a-c1fb-4da4-a311-ec4f419001a4)
 
 
 ________________________________________
