@@ -1,8 +1,8 @@
 # duets in latent space
 
-**performance + creative coding + generative AI + sound + concept by marlon barrios solano**
+**performance + creative coding + generative AI + sound + concept by marlon barrios solano**'
 
-<img src="https://github.com/user-attachments/assets/ab8fb003-3c48-417f-91e5-b80ed808e03f" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+<img src="https://github.com/user-attachments/assets/856fd501-e4b2-45ee-864c-bf7ad6eeff05" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 
 *This is the unseeable space in which machine learning makes its meaning. Beyond that which we are incapable of visualizing is that which we are incapable of even understanding.* - James Bridle
 
@@ -83,6 +83,8 @@ https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)
 - [LIVE APP](https://bauhaus-time-traveler.vercel.app/)
 
+<img src="https://github.com/user-attachments/assets/5d34258b-e713-4e85-b7c2-591f898bc35a" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+
 ### Bauhaus Time Traveller STRIPPERS
 - **Model:** Stable Diffusion XL
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler-strippers)
@@ -99,7 +101,7 @@ https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/perlin-noise-latent-space)
 - [LIVE APP](https://hyperelement.vercel.app/)
 
-<img src="https://github.com/user-attachments/assets/856fd501-e4b2-45ee-864c-bf7ad6eeff05" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+<img src="https://github.com/user-attachments/assets/ab8fb003-3c48-417f-91e5-b80ed808e03f" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 ________________________________________
 
 ### Pulling Molecules
