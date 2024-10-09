@@ -25,13 +25,14 @@ Duration from 25 to 45 minutes adjusted to the context and venue.
 
 It has been presented at:
 
--. ICA 2024 Live Arts festival in Cape Town, Sourt Africa Sepet 5th 2024.
+-. ICA 2024 Live Arts festival in Cape Town, Sourt Africa Sept 5th 2024.
 
 -. Generative AI, Arts and Ethics, think-tank at Chateau de Fey, France March 5th of March 2024.
 
--. ACCAD Future Tech | The Ohio Stare University OSU Dance (Online) February 22nd 2024
+-. ACCAD Future Tech | The Ohio Stare University OSU Dance (Online) February 22nd 2024.
 
 -. Unfinished Fridays @ Berlin Lake Studios February 23rd 2024.
+
 
 It can be adapted to be presented as installation-performances, installations, online apps and as in-person and online lecture-performance.
 
