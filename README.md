@@ -12,7 +12,7 @@ Latent space, in the realm of machine learning and artificial intelligence, refe
 
 <img src="https://github.com/user-attachments/assets/febed3f2-e25e-4101-a840-c26f3338998f" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 
-“Duets in Latent Spaces” is conceived  as a lecture-performance interacting with web apps  programmed by the artist, attempting to make  tangible the remembered, the affective and the speculative. It combines a series of vignettes, story-telling,  interfaces, software, movement scores and re-performances, weaving  trajectories of cybernetics, time travel, queer longing, recursion and migrations with algorithmic playfulness.
+“Duets in Latent Space” is conceived  as a lecture-performance interacting with web apps  programmed by the artist, attempting to make  tangible the remembered, the affective and the speculative. It combines a series of vignettes, story-telling,  interfaces, software, movement scores and re-performances, weaving  trajectories of cybernetics, time travel, queer longing, recursion and migrations with algorithmic playfulness.
 
 These interactions forge semantic and action landscapes that delve into the deep, unseen dimensions of data, cultural memory and language. By reversing the hegemonic narratives of generative AI and manipulating inputs, actions, and prompts, I navigate the AI models’ generative processes exploring their emancipatory potential, forging unique cognitive recombinations with evolving texts, images, and soundscapes set within the ethereal spaces of desire, affect, memory, longing and hybrid materiality.
 
@@ -39,7 +39,7 @@ It can be adapted to be presented as installation-performances, installations, o
 
 ## Nodes or Vignetes
 
-### Walking in an exagerated Manner arounf the perimeterof a square
+### Walking in an Exagerated Manner Around the Perimeter of a Square
 
 [Video](https://www.artforum.com/video/bruce-naumans-walking-in-an-exaggerated-manner-161646/)
 
