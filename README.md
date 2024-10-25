@@ -25,6 +25,8 @@ Duration from 25 to 45 minutes adjusted to the context and venue.
 
 It has been presented at:
 
+-. Hybrid Bienalle @Hellerau, Dresden, Germany October 26th 2024
+
 -. ICA 2024 Live Arts festival in Cape Town, Sourt Africa Sept 5th 2024.
 
 -. Generative AI, Arts and Ethics, think-tank at Chateau de Fey, France March 5th of March 2024.
@@ -44,13 +46,19 @@ It can be adapted to be presented as installation-performances, installations, o
 
 [Video](https://www.artforum.com/video/bruce-naumans-walking-in-an-exaggerated-manner-161646/)
 
-Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the Perimeter of a Square (1967-68) served as a template for my  exploration of what is considered canonical or a model. I use the square as a metaphor for inhabiting the alien—performing the alienation that stands in contrast to the normative, disciplined body. By exaggerating movement, Marlon interrogates the boundaries of conceptual experimentation, viewing it through the lens of white privilege. This perspective calls attention to how certain bodies and practices are excluded or marginalized within the same conceptual frameworks that define avant-garde art, subtly critiquing the institutionalization of experimentalism as an exclusive realm of white privilege. It reprsents the internalized latent space.
+Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the Perimeter of a Square (1967-68) served as a template for my  exploration of what is considered canonical or a model. I use the square as a metaphor for inhabiting the alien—performing the alienation that stands in contrast to the normative, disciplined body. By exaggerating movement, Marlon interrogates the boundaries of conceptual experimentation, viewing it through the lens of white privilege. This perspective calls attention to how certain bodies and practices are excluded or marginalized within the same conceptual frameworks that define avant-garde art, subtly critiquing the institutionalization of experimentalism as an exclusive realm of white privilege. It represents the internalized latent space as an square.
 
 ### Canonical (memory warmup/accumulation in Space and time))
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/canonical01?tab=readme-ov-file)
 - [LIVE APP](https://marlonbarrios.github.io/canonical01/)
 
 ### Mr Parker (in progress)
+- [LIVE APP](https://neural-hyper-object.vercel.app/)
+
+### Extraordinary Alien
+- **Model:** MediaPipeGesture Recognition
+- [GitHub Repository with project description, code and live app](https://marlonbarrios.github.io/extraordinary-alien/)
+- [LIVE APP](https://marlonbarrios.github.io/extraordinary-alien/)
 
 ### Entropic Haiku
 - **Model:** GPT-4
@@ -64,20 +72,12 @@ Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the P
 
 https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-f48f-4f96-844c-c17d0b2be14c
 
-### Extraordinary Alien
-- **Model:** MediaPipeGesture Recognition
-- [GitHub Repository with project description, code and live app](https://marlonbarrios.github.io/extraordinary-alien/)
-- [LIVE APP](https://marlonbarrios.github.io/extraordinary-alien/)
 
 ### In Pursuit of Stolen Ghosts (DRAWING TOOL VERSION)
 - **Model:** Stable Diffusion XL
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)
 - [LIVE APP](https://in-pursuit-of-stolen-ghosts.vercel.app/)
 
-### In Pursuit of Stolen Ghosts (GENERATIVE-INTERACTIVE VERSION AND BROWN COLORS)
-- **Model:** Stable Diffusion XL
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/inpursuitofstolenghosts?tab=readme-ov-file)
-- [LIVE APP](https://inpursuitoftolenghosts.vercel.app/)
 
 ### Bauhaus Time Traveller
 - **Model:** Stable Diffusion XL
@@ -96,6 +96,14 @@ https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-
 - **Model:** MediaPipe Pose Landmark
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossible-simplicity)
 - [LIVE APP](https://marlonbarrios.github.io/impossible-simplicity/)
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+### In Pursuit of Stolen Ghosts (GENERATIVE-INTERACTIVE VERSION AND BROWN COLORS)
+- **Model:** Stable Diffusion XL
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/inpursuitofstolenghosts?tab=readme-ov-file)
+- [LIVE APP](https://inpursuitoftolenghosts.vercel.app/)
+
 
 ### Hyper-elements in Latent Space (Autonomous Duet)
 - **Model:** Stable Diffusion XL
