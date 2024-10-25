@@ -53,6 +53,18 @@ Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the P
 - [LIVE APP](https://marlonbarrios.github.io/canonical01/)
 
 ### Mr Parker (in progress)
+
+ "I was 8. A Sunday, warm. We went to Mr. Parker’s house. My grandmother’s boss. He was from Texas, she said. A big place, far off. Didn’t know much about it. Only the name. Texas. He worked for La Creole. The oil company. My grandmother, self-taught in English, had worked her way up to this. Proud. 
+ 
+ We found him in the back. He was working on a boat. A wooden boat. He called us over, us kids. The boat wasn’t finished. Pieces of wood, scattered. He wasn’t wearing much. A sleeveless shirt. Arms bare, skin pale. Pink in places, burnt from the sun. His hair, blonde, messy. He looked at me.
+“Marlon, look at this.” His voice, low. He showed me the wood, how he was fitting it together. I nodded, but I wasn’t watching the wood. I watched him. His arms, his hands. The way his skin looked, almost glowing in the sun. The way he spoke. English. Not just words, but something else. I didn’t understand. Couldn’t. But I listened. It was like hearing something far off. A place I didn’t know.
+
+He switched to Spanish. Slow, deliberate, the words thick with his " gringo" accent. Clumsy, but sweet. He tried. It made me smile. Made me feel something, though I didn’t know what. There was a rhythm in the air. Something I couldn’t name. Not then. I just stood there, listening. The heat of the Venezuelan sun, his voice, the way he looked at me. Like I was the only one there. 
+
+Goosebumps rose on my arms, even though it was warm. He smiled. I remember that. And the sound of his voice. And something else, something like seeing a shadow before it arrives. Like knowing what’s coming, even if you don’t have the words for it yet. It was all there, in his voice, in the way he spoke. I couldn’t see the boat. Couldn’t see anything else. Just him. The way his arms moved, the way his skin flushed under the sun. The words didn’t matter. I didn’t understand it all, but I didn’t need to. It stayed with me.
+
+Quiet. Waiting. Mr. Parker, from Texas."
+
 - [LIVE APP](https://neural-hyper-object.vercel.app/)
 
 ### Extraordinary Alien
