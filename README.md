@@ -146,6 +146,30 @@ ________________________________________
 - [LIVE APP](https://marlonbarrios.github.io/the_body_of_the_text/)
 
 
+  ### In the works
+  
+  Daniel
+
+  Symbiont
+
+  paxton-Brooks
+
+  the golden braid
+
+  sunyata
+
+  Husky
+
+  
+
+  
+
+
+  
+
+  
+
+
 ### Remembering Steve Paxton (1939-2024)
 
 *Developed at Art and Research Residency at Lake Studios Berlin February 2024*
