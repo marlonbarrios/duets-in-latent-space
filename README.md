@@ -104,6 +104,8 @@ https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-
 
 <img src="https://github.com/user-attachments/assets/541f2361-3e2a-4a0f-aa8e-16248001a0c0" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 
+https://github.com/user-attachments/assets/057d99a7-c30d-4832-b27d-85c7ab244a06
+
 ### Bauhaus Time Traveller STRIPPERS
 - **Model:** Stable Diffusion XL
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler-strippers)
