@@ -80,13 +80,19 @@ Quiet. Waiting. Mr. Parker, from Texas."
 - [GitHub Repository with project description, code and live app](https://marlonbarrios.github.io/extraordinary-alien/)
 - [LIVE APP](https://marlonbarrios.github.io/extraordinary-alien/)
 
+https://github.com/user-attachments/assets/d37b4ed2-ea02-40e0-9b7e-487139250a09
+
 ### Entropic Haiku
 - **Model:** GPT-4
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)
 - [LIVE APP](https://entropic-haiku.vercel.app/)
 
 ### Conversations with a Possible Mind
+
 - [LIVE APP](https://empathic-voice-interface-starter-khyysvvqd.vercel.app/)
+
+https://github.com/user-attachments/assets/4ce33715-c0b8-4d68-accb-266aea4df054
+
 
 <img src="https://github.com/user-attachments/assets/12b06b60-322a-45de-a1c8-5317143d2ec8" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 
@@ -97,12 +103,15 @@ https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)
 - [LIVE APP](https://in-pursuit-of-stolen-ghosts.vercel.app/)
 
+ <img src="https://github.com/user-attachments/assets/541f2361-3e2a-4a0f-aa8e-16248001a0c0" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+
+https://github.com/user-attachments/assets/9f099fff-c197-4d39-9794-af0f2b3369dc
+
+
 ### Bauhaus Time Traveller
 - **Model:** Stable Diffusion XL
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)
 - [LIVE APP](https://bauhaus-time-traveler.vercel.app/)
-
-<img src="https://github.com/user-attachments/assets/541f2361-3e2a-4a0f-aa8e-16248001a0c0" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 
 https://github.com/user-attachments/assets/057d99a7-c30d-4832-b27d-85c7ab244a06
 
