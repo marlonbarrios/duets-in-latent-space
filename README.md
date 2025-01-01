@@ -23,6 +23,7 @@ Central to this project are several technologies: p5.js, enabling creative codin
 
 An evolution of instable landscape.
 
+<img src="https://github.com/user-attachments/assets/f5584ea8-a7df-4440-a683-060a961c7de7" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 
 
 Duration from 25 to 45 minutes adjusted to the context and venue.
@@ -49,6 +50,7 @@ It can be adapted to be presented as installation-performances, installations, o
 
 ## Time is Love Story (version)
 
+<img src="https://github.com/user-attachments/assets/68f602a9-bca5-49dc-ae08-1af44da6cfc2" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 
 ### Walking in an Exagerated Manner Around the Perimeter of a Square
 
