@@ -57,9 +57,9 @@ Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the P
 
 ### Canonical (memory warmup/accumulation in Space and time))
 
-<img src="https://github.com/user-attachments/assets/f5584ea8-a7df-4440-a683-060a961c7de7" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500>
+<img src="https://github.com/user-attachments/assets/f5584ea8-a7df-4440-a683-060a961c7de7" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
-<img src="https://github.com/user-attachments/assets/ab8fb003-3c48-417f-91e5-b80ed808e03f" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500>
+<img src="https://github.com/user-attachments/assets/ab8fb003-3c48-417f-91e5-b80ed808e03f" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/canonical01?tab=readme-ov-file)
 - [LIVE APP](https://marlonbarrios.github.io/canonical01/)
@@ -81,7 +81,7 @@ Quiet. Waiting. Mr. Parker, from Texas."
 
 ### Extraordinary Alien
 
- <img src="https://github.com/user-attachments/assets/541f2361-3e2a-4a0f-aa8e-16248001a0c0" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500>
+ <img src="https://github.com/user-attachments/assets/541f2361-3e2a-4a0f-aa8e-16248001a0c0" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
  
 - **Model:** MediaPipeGesture Recognition
@@ -107,7 +107,7 @@ Quiet. Waiting. Mr. Parker, from Texas."
 
 ### Bauhaus Time Traveller
 
-<img src="https://github.com/user-attachments/assets/856fd501-e4b2-45ee-864c-bf7ad6eeff05" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500>
+<img src="https://github.com/user-attachments/assets/856fd501-e4b2-45ee-864c-bf7ad6eeff05" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
 - **Model:** Stable Diffusion XL
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)
@@ -124,7 +124,7 @@ https://github.com/user-attachments/assets/057d99a7-c30d-4832-b27d-85c7ab244a06
 - **Model:** MediaPipe Pose Landmark
 
 
-<img src="https://github.com/user-attachments/assets/68f602a9-bca5-49dc-ae08-1af44da6cfc2" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500>
+<img src="https://github.com/user-attachments/assets/68f602a9-bca5-49dc-ae08-1af44da6cfc2" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossible-simplicity)
 - [LIVE APP](https://marlonbarrios.github.io/impossible-simplicity/)
