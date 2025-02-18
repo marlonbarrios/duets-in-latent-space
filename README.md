@@ -49,7 +49,8 @@ It can be adapted to be presented as installation-performances, installations, o
 
 <img src="https://github.com/user-attachments/assets/febed3f2-e25e-4101-a840-c26f3338998f" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 
-<img src="https://github.com/user-attachments/assets/a71a294a-c1fb-4da4-a311-ec4f419001a4" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="700" >
+<img src="https://github.com/user-attachments/assets/b4f4da2d-bac8-4b3c-a915-b6e78bc0aa43" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+
 
 [Video](https://www.artforum.com/video/bruce-naumans-walking-in-an-exaggerated-manner-161646/)
 
