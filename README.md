@@ -26,7 +26,6 @@ It has been presented at:
 - **Unfinished Fridays** @ Berlin Lake Studios – **February 23rd, 2024**  
 
 
-
 It can be adapted to be presented as installation-performances, installations, online apps and as in-person and online lecture-performance.
 
 ## Nodes or Vignetes
@@ -107,10 +106,9 @@ Quiet. Waiting. Mr. Parker, from Texas."
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)
 - [LIVE APP](https://bauhaus-time-traveler.vercel.app/)
 
-[bauhaus time travelers | "Duets in Latent Space" @ Live Arts Festival 2024, Cape Town](https://youtu.be/8mCOuFeESII?si=R3NbC9xvRUUHXgci)
+[bauhaus time travelers Duets in Latent Space @Live Arts Festival 2024, Cape Town](https://youtu.be/8mCOuFeESII?si=R3NbC9xvRUUHXgci)
 
 [VIDEO CAPTURE OF APP](https://www.youtube.com/watch?v=aR0nK-Xl_E4&t=37s)
-
 
 ### Bauhaus Time Traveller STRIPPERS
 - **Model:** Stable Diffusion XL
@@ -119,7 +117,6 @@ Quiet. Waiting. Mr. Parker, from Texas."
 
 ### Impossible Simplicity
 - **Model:** MediaPipe Pose Landmark
-
 
 <img src="https://github.com/user-attachments/assets/68f602a9-bca5-49dc-ae08-1af44da6cfc2" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
