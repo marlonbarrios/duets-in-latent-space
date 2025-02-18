@@ -18,7 +18,7 @@ Duration from 25 to 45 minutes adjusted to the context and venue.
 
 It has been presented at:
 
-- **FLOAT | Polycrisis** @ How Bazar, Gainesville, Florida, USA – **November 13th, 2024**  
+- **FLOAT Polycrisis** @ How Bazar, Gainesville, Florida, USA – **November 13th, 2024**  
 - **Hybrid Biennale** @ Hellerau, Dresden, Germany – **October 26th, 2024**  
 - **ICA 2024 Live Arts Festival** @ Cape Town, South Africa – **September 5th, 2024**  
 - **Generative AI, Arts and Ethics Think-Tank** @ Château de Fey, France – **March 5th, 2024**  
@@ -85,7 +85,7 @@ Quiet. Waiting. Mr. Parker, from Texas."
 
 - [LIVE APP](https://empathic-voice-interface-starter-khyysvvqd.vercel.app/)
 
-[conversations with possible minds | Duets in Latent Space" @ Live Arts Festival 2024 Cape Town, SA](https://youtu.be/WNAUKmtXF6g?si=P_j_7FI9gcGLN3R4)
+[conversations with possible minds  Duets in Latent Space" @ Live Arts Festival 2024 Cape Town, SA](https://youtu.be/WNAUKmtXF6g?si=P_j_7FI9gcGLN3R4)
 
 ### In Pursuit of Stolen Ghosts (DRAWING TOOL VERSION)
 
