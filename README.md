@@ -84,7 +84,7 @@ Quiet. Waiting. Mr. Parker, from Texas."
 
 - [LIVE APP](https://empathic-voice-interface-starter-khyysvvqd.vercel.app/)
 
-[conversations with possible minds  Duets in Latent Space" @ Live Arts Festival 2024 Cape Town, SA](https://youtu.be/WNAUKmtXF6g?si=P_j_7FI9gcGLN3R4)
+[VIDEO of conversations with possible minds Duets in Latent Space @ Live Arts Festival 2024 Cape Town, SA](https://youtu.be/WNAUKmtXF6g?si=P_j_7FI9gcGLN3R4)
 
 ### In Pursuit of Stolen Ghosts (DRAWING TOOL VERSION)
 
@@ -92,8 +92,7 @@ Quiet. Waiting. Mr. Parker, from Texas."
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)
 - [LIVE APP](https://in-pursuit-of-stolen-ghosts.vercel.app/)
 
-  [in pursuit of stolen ghosts | Duets in Latent Space" performed @ Live Arts Festival 2024 | Cape Town](https://youtu.be/iZm7Jda1kMk?si=f4MVjueWTCQCs8aJ)
-
+  [Video of in pursuit of stolen ghosts Duets in Latent Space performed @ Live Arts Festival 2024 | Cape Town](https://youtu.be/iZm7Jda1kMk?si=f4MVjueWTCQCs8aJ)
 
  [VIDEO CAPTURE OF APP](https://youtu.be/TtKQDcp93tY?si=mkeIH5Fsj6dFdYVW)
 
@@ -106,7 +105,7 @@ Quiet. Waiting. Mr. Parker, from Texas."
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)
 - [LIVE APP](https://bauhaus-time-traveler.vercel.app/)
 
-[bauhaus time travelers Duets in Latent Space @Live Arts Festival 2024, Cape Town](https://youtu.be/8mCOuFeESII?si=R3NbC9xvRUUHXgci)
+[Video of bauhaus time travelers Duets in Latent Space @Live Arts Festival 2024 Cape Town](https://youtu.be/8mCOuFeESII?si=R3NbC9xvRUUHXgci)
 
 [VIDEO CAPTURE OF APP](https://www.youtube.com/watch?v=aR0nK-Xl_E4&t=37s)
 
