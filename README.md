@@ -82,7 +82,6 @@ Quiet. Waiting. Mr. Parker, from Texas."
 ### Extraordinary Alien
 
  <img src="https://github.com/user-attachments/assets/541f2361-3e2a-4a0f-aa8e-16248001a0c0" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
-
  
 - **Model:** MediaPipeGesture Recognition
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/extraordinary_alien2)
@@ -98,11 +97,18 @@ Quiet. Waiting. Mr. Parker, from Texas."
 
 - [LIVE APP](https://empathic-voice-interface-starter-khyysvvqd.vercel.app/)
 
+[conversations with possible minds | Duets in Latent Space" @ Live Arts Festival 2024 Cape Town, SA](https://youtu.be/WNAUKmtXF6g?si=P_j_7FI9gcGLN3R4)
 
 ### In Pursuit of Stolen Ghosts (DRAWING TOOL VERSION)
+
 - **Model:** Stable Diffusion XL
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)
 - [LIVE APP](https://in-pursuit-of-stolen-ghosts.vercel.app/)
+
+  [in pursuit of stolen ghosts | Duets in Latent Space" performed @ Live Arts Festival 2024 | Cape Town](https://youtu.be/iZm7Jda1kMk?si=f4MVjueWTCQCs8aJ)
+
+
+ [VIDEO CAPTURE OF APP](https://youtu.be/TtKQDcp93tY?si=mkeIH5Fsj6dFdYVW)
 
 
 ### Bauhaus Time Traveller
@@ -113,7 +119,10 @@ Quiet. Waiting. Mr. Parker, from Texas."
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)
 - [LIVE APP](https://bauhaus-time-traveler.vercel.app/)
 
-https://github.com/user-attachments/assets/057d99a7-c30d-4832-b27d-85c7ab244a06
+[bauhaus time travelers | "Duets in Latent Space" @ Live Arts Festival 2024, Cape Town](https://youtu.be/8mCOuFeESII?si=R3NbC9xvRUUHXgci)
+
+[VIDEO CAPTURE OF APP](https://www.youtube.com/watch?v=aR0nK-Xl_E4&t=37s)
+
 
 ### Bauhaus Time Traveller STRIPPERS
 - **Model:** Stable Diffusion XL
