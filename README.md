@@ -79,8 +79,8 @@ Quiet. Waiting. Mr. Parker, from Texas."
 
 ### Extraordinary Alien
 - **Model:** MediaPipeGesture Recognition
-- [GitHub Repository with project description, code and live app](https://marlonbarrios.github.io/extraordinary-alien/)
-- [LIVE APP](https://marlonbarrios.github.io/extraordinary-alien/)
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/extraordinary_alien2)
+- [LIVE APP](https://marlonbarrios.github.io/extraordinary_alien2/)
 
 https://github.com/user-attachments/assets/d37b4ed2-ea02-40e0-9b7e-487139250a09
 
@@ -108,7 +108,6 @@ https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-
  <img src="https://github.com/user-attachments/assets/541f2361-3e2a-4a0f-aa8e-16248001a0c0" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 
 https://github.com/user-attachments/assets/9f099fff-c197-4d39-9794-af0f2b3369dc
-
 
 ### Bauhaus Time Traveller
 - **Model:** Stable Diffusion XL
