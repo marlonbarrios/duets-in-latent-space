@@ -16,12 +16,12 @@ Central to this project are several technologies: p5.js, enabling creative codin
 
 Duration from 25 to 45 minutes adjusted to the context and venue.
 
-It has been presented at:'
+It has been presented at:
 
 
 -. FLOAT | Polycrisis @How Bazar, Gainesville, Florida USA Novemeber 13th 2024.
 
--. Hybrid Bienalle @Hellerau, Dresden, Germany October 26th 2024
+-. Hybrid Bienalle @Hellerau, Dresden, Germany October 26th 2024.
 
 -. ICA 2024 Live Arts festival in Cape Town, Sourt Africa Sept 5th 2024.
 
@@ -30,7 +30,6 @@ It has been presented at:'
 -. ACCAD Future Tech  The Ohio Stare University OSU Dance (Online) February 22nd 2024.
 
 -. Unfinished Fridays @ Berlin Lake Studios February 23rd 2024.
-
 
 It can be adapted to be presented as installation-performances, installations, online apps and as in-person and online lecture-performance.
 
