@@ -1,8 +1,11 @@
 # duets in latent space
 
+![Screenshot 2024-04-26 at 11 57 57 AM](https://github.com/user-attachments/assets/00aa7335-7b8d-4d6b-8d84-8e58fb9ca52c)
+
 **performance + creative coding + generative AI + sound + concept by marlon barrios solano**'
 
 *This is the unseeable space in which machine learning makes its meaning. Beyond that which we are incapable of visualizing is that which we are incapable of even understanding.* - James Bridle
+
 
 “Duets in Latent Space,” is a live collaboration between the artist — situated before a laptop — and machine learning models and their  enigmatic latent space. Through various forms of input, whether they be movements, sounds, or digital interactions, the AI responds in kind, generating visual, auditory, or textual outputs that are played back in real time.
 
