@@ -4,24 +4,17 @@
 
 *This is the unseeable space in which machine learning makes its meaning. Beyond that which we are incapable of visualizing is that which we are incapable of even understanding.* - James Bridle
 
-
-Happenings (vectors)  in latent space 
-
-Latent space, in the realm of machine learning and artificial intelligence, refers to a high-dimensional abstract space where data’s intrinsic, hidden features are represented in a compressed form. This space is particularly significant in the context of generative models, such as Generative Adversarial Networks (GANs) and transformers, where it serves as the groundwork for the models to learn, encode, and manipulate the underlying patterns of the data they’re trained on. By navigating through this latent space, these models can generate new instances of data that, while reflective of the learned patterns, are distinct and original.
-
 “Duets in Latent Space,” is a live collaboration between the artist — situated before a laptop — and machine learning models and their  enigmatic latent space. Through various forms of input, whether they be movements, sounds, or digital interactions, the AI responds in kind, generating visual, auditory, or textual outputs that are played back in real time.
 
 “Duets in Latent Space” is conceived  as a lecture-performance interacting with web apps  programmed by the artist, attempting to make  tangible the remembered, the affective and the speculative. It combines a series of vignettes, story-telling,  interfaces, software, movement scores and re-performances, weaving  trajectories of cybernetics, time travel, queer longing, recursion and migrations with algorithmic playfulness.
+
+Latent space, in the realm of machine learning and artificial intelligence, refers to a high-dimensional abstract space where data’s intrinsic, hidden features are represented in a compressed form. This space is particularly significant in the context of generative models, such as Generative Adversarial Networks (GANs) and transformers, where it serves as the groundwork for the models to learn, encode, and manipulate the underlying patterns of the data they’re trained on. By navigating through this latent space, these models can generate new instances of data that, while reflective of the learned patterns, are distinct and original.
 
 These interactions forge semantic and action landscapes that delve into the deep, unseen dimensions of data, cultural memory and language. By reversing the hegemonic narratives of generative AI and manipulating inputs, actions, and prompts, I navigate the AI models’ generative processes exploring their emancipatory potential, forging unique cognitive recombinations with evolving texts, images, and soundscapes set within the ethereal spaces of desire, affect, memory, longing and hybrid materiality.
 
 Central to this project are several technologies: p5.js, enabling creative coding in the browser; Next.js, for rendering server-side React applications; machine learning models for hangs gesture and body movement recognition; humansLarge Language Models (LLMs), offering extensive capabilities for generating human-like text; and Generative Adversarial Networks (GANs), known for producing highly realistic images. These technologies underpin the performance, emphasizing REAL-TIME dynamic interactions that highlight the creative and epistemic challenges of generative AI.
 
-An evolution of unstable landscape.
-
-
 Duration from 25 to 45 minutes adjusted to the context and venue.
-
 
 It has been presented at:'
 
