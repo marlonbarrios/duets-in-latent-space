@@ -2,8 +2,6 @@
 
 **performance + creative coding + generative AI + sound + concept by marlon barrios solano**'
 
-<img src="https://github.com/user-attachments/assets/856fd501-e4b2-45ee-864c-bf7ad6eeff05" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
-
 *This is the unseeable space in which machine learning makes its meaning. Beyond that which we are incapable of visualizing is that which we are incapable of even understanding.* - James Bridle
 
 
@@ -13,23 +11,22 @@ Latent space, in the realm of machine learning and artificial intelligence, refe
 
 “Duets in Latent Space,” is a live collaboration between the artist — situated before a laptop — and machine learning models and their  enigmatic latent space. Through various forms of input, whether they be movements, sounds, or digital interactions, the AI responds in kind, generating visual, auditory, or textual outputs that are played back in real time.
 
-<img src="https://github.com/user-attachments/assets/febed3f2-e25e-4101-a840-c26f3338998f" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
-
 “Duets in Latent Space” is conceived  as a lecture-performance interacting with web apps  programmed by the artist, attempting to make  tangible the remembered, the affective and the speculative. It combines a series of vignettes, story-telling,  interfaces, software, movement scores and re-performances, weaving  trajectories of cybernetics, time travel, queer longing, recursion and migrations with algorithmic playfulness.
 
 These interactions forge semantic and action landscapes that delve into the deep, unseen dimensions of data, cultural memory and language. By reversing the hegemonic narratives of generative AI and manipulating inputs, actions, and prompts, I navigate the AI models’ generative processes exploring their emancipatory potential, forging unique cognitive recombinations with evolving texts, images, and soundscapes set within the ethereal spaces of desire, affect, memory, longing and hybrid materiality.
 
 Central to this project are several technologies: p5.js, enabling creative coding in the browser; Next.js, for rendering server-side React applications; machine learning models for hangs gesture and body movement recognition; humansLarge Language Models (LLMs), offering extensive capabilities for generating human-like text; and Generative Adversarial Networks (GANs), known for producing highly realistic images. These technologies underpin the performance, emphasizing REAL-TIME dynamic interactions that highlight the creative and epistemic challenges of generative AI.
 
-An evolution of instable landscape.
-
-<img src="https://github.com/user-attachments/assets/f5584ea8-a7df-4440-a683-060a961c7de7" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+An evolution of unstable landscape.
 
 
 Duration from 25 to 45 minutes adjusted to the context and venue.
 
 
-It has been presented at:
+It has been presented at:'
+
+
+-. FLOAT | Polycrisis @How Bazar, Gainesville, Florida USA Novemeber 13th 2024.
 
 -. Hybrid Bienalle @Hellerau, Dresden, Germany October 26th 2024
 
@@ -37,28 +34,33 @@ It has been presented at:
 
 -. Generative AI, Arts and Ethics, think-tank at Chateau de Fey, France March 5th of March 2024.
 
--. ACCAD Future Tech | The Ohio Stare University OSU Dance (Online) February 22nd 2024.
+-. ACCAD Future Tech  The Ohio Stare University OSU Dance (Online) February 22nd 2024.
 
 -. Unfinished Fridays @ Berlin Lake Studios February 23rd 2024.
 
 
 It can be adapted to be presented as installation-performances, installations, online apps and as in-person and online lecture-performance.
 
-<img src="https://github.com/user-attachments/assets/a71a294a-c1fb-4da4-a311-ec4f419001a4" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="700" >
-
 ## Nodes or Vignetes
 
 ## Time is Love Story (version)
 
-<img src="https://github.com/user-attachments/assets/68f602a9-bca5-49dc-ae08-1af44da6cfc2" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
-
 ### Walking in an Exagerated Manner Around the Perimeter of a Square
+
+<img src="https://github.com/user-attachments/assets/febed3f2-e25e-4101-a840-c26f3338998f" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+
+<img src="https://github.com/user-attachments/assets/a71a294a-c1fb-4da4-a311-ec4f419001a4" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="700" >
 
 [Video](https://www.artforum.com/video/bruce-naumans-walking-in-an-exaggerated-manner-161646/)
 
 Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the Perimeter of a Square (1967-68) served as a template for my  exploration of what is considered canonical or a model. I use the square as a metaphor for inhabiting the alien—performing the alienation that stands in contrast to the normative, disciplined body. By exaggerating movement, Marlon interrogates the boundaries of conceptual experimentation, viewing it through the lens of white privilege. This perspective calls attention to how certain bodies and practices are excluded or marginalized within the same conceptual frameworks that define avant-garde art, subtly critiquing the institutionalization of experimentalism as an exclusive realm of white privilege. It represents the internalized latent space as an square.
 
 ### Canonical (memory warmup/accumulation in Space and time))
+
+<img src="https://github.com/user-attachments/assets/f5584ea8-a7df-4440-a683-060a961c7de7" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+
+<img src="https://github.com/user-attachments/assets/ab8fb003-3c48-417f-91e5-b80ed808e03f" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/canonical01?tab=readme-ov-file)
 - [LIVE APP](https://marlonbarrios.github.io/canonical01/)
 
@@ -78,11 +80,14 @@ Quiet. Waiting. Mr. Parker, from Texas."
 - [LIVE APP](https://neural-hyper-object.vercel.app/)
 
 ### Extraordinary Alien
+
+ <img src="https://github.com/user-attachments/assets/541f2361-3e2a-4a0f-aa8e-16248001a0c0" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+
+ 
 - **Model:** MediaPipeGesture Recognition
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/extraordinary_alien2)
 - [LIVE APP](https://marlonbarrios.github.io/extraordinary_alien2/)
 
-https://github.com/user-attachments/assets/d37b4ed2-ea02-40e0-9b7e-487139250a09
 
 ### Entropic Haiku
 - **Model:** GPT-4
@@ -93,23 +98,17 @@ https://github.com/user-attachments/assets/d37b4ed2-ea02-40e0-9b7e-487139250a09
 
 - [LIVE APP](https://empathic-voice-interface-starter-khyysvvqd.vercel.app/)
 
-https://github.com/user-attachments/assets/4ce33715-c0b8-4d68-accb-266aea4df054
-
-
-<img src="https://github.com/user-attachments/assets/12b06b60-322a-45de-a1c8-5317143d2ec8" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
-
-https://github.com/marlonbarrios/duets-in-latent-space/assets/90220317/916290b2-f48f-4f96-844c-c17d0b2be14c
 
 ### In Pursuit of Stolen Ghosts (DRAWING TOOL VERSION)
 - **Model:** Stable Diffusion XL
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)
 - [LIVE APP](https://in-pursuit-of-stolen-ghosts.vercel.app/)
 
- <img src="https://github.com/user-attachments/assets/541f2361-3e2a-4a0f-aa8e-16248001a0c0" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
-
-https://github.com/user-attachments/assets/9f099fff-c197-4d39-9794-af0f2b3369dc
 
 ### Bauhaus Time Traveller
+
+<img src="https://github.com/user-attachments/assets/856fd501-e4b2-45ee-864c-bf7ad6eeff05" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+
 - **Model:** Stable Diffusion XL
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)
 - [LIVE APP](https://bauhaus-time-traveler.vercel.app/)
@@ -123,6 +122,10 @@ https://github.com/user-attachments/assets/057d99a7-c30d-4832-b27d-85c7ab244a06
 
 ### Impossible Simplicity
 - **Model:** MediaPipe Pose Landmark
+
+
+<img src="https://github.com/user-attachments/assets/68f602a9-bca5-49dc-ae08-1af44da6cfc2" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
+
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossible-simplicity)
 - [LIVE APP](https://marlonbarrios.github.io/impossible-simplicity/)
 
@@ -146,7 +149,6 @@ https://github.com/user-attachments/assets/057d99a7-c30d-4832-b27d-85c7ab244a06
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/perlin-noise-latent-space)
 - [LIVE APP](https://hyperelement.vercel.app/)
 
-<img src="https://github.com/user-attachments/assets/ab8fb003-3c48-417f-91e5-b80ed808e03f" alt="Screenshot 2024-08-26 at 2 47 15 PM" height="500">
 ________________________________________
 
 ### Pulling Molecules
