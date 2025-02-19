@@ -117,6 +117,15 @@ Quiet. Waiting. Mr. Parker, from Texas."
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler-strippers)
 - [LIVE APP](https://bauhaus-timetraveler-stripper.vercel.app/)
 
+### Instrumental Proximities
+
+
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/instrumentalproximities)
+
+- [LIVE APP](https://github.com/marlonbarrios/instrumentalproximities)
+
+
+
 ### Impossible Simplicity
 - **Model:** MediaPipe Pose Landmark
 
