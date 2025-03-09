@@ -20,7 +20,7 @@ Central to this project are several technologies: p5.js, enabling creative codin
 Duration from 25 to 45 minutes adjusted to the context and venue.
 
 It has been presented at:
-- **AI and Reserach** @ Collge of Medicine UF, Gainesville, Florida, USA – **February 24th, 2025**  
+- **AI and Research Celebration** @ Collge of Medicine UF, Gainesville, Florida, USA – **February 24th, 2025**  
 - **FLOAT Polycrisis** @ How Bazar, Gainesville, Florida, USA – **November 13th, 2024**  
 - **Hybrid Biennale** @ Hellerau, Dresden, Germany – **October 26th, 2024**  
 - **ICA 2024 Live Arts Festival** @ Cape Town, South Africa – **September 5th, 2024**  
