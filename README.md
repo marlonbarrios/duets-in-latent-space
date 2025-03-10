@@ -114,6 +114,14 @@ Quiet. Waiting. Mr. Parker, from Texas."
 
 [VIDEO CAPTURE OF APP](https://www.youtube.com/watch?v=aR0nK-Xl_E4&t=37s)
 
+### Bauhaus Time Traveller STRIPPERS (Crossfading)
+
+- **Model:** Stable Diffusion XL
+  
+- [GitHub Repository](https://github.com/marlonbarrios/bauhaus-time-traveler-strippers-crossfading)
+
+- [LIVE APP](https://bauhaus-time-traveler-strippers-mondrian.vercel.app/)
+
 ### Bauhaus Time Traveller STRIPPERS
 - **Model:** Stable Diffusion XL
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler-strippers)
@@ -126,13 +134,13 @@ Quiet. Waiting. Mr. Parker, from Texas."
 - [LIVE APP](https://github.com/marlonbarrios/instrumentalproximities)
 
 
-
 ### Impossible Simplicity
 - **Model:** MediaPipe Pose Landmark
 
 <img src="https://github.com/user-attachments/assets/68f602a9-bca5-49dc-ae08-1af44da6cfc2" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossible-simplicity)
+  
 - [LIVE APP](https://marlonbarrios.github.io/impossible-simplicity/)
 
 +++++++++++++++++++++++++++++++++++++++++++++
@@ -147,7 +155,6 @@ Quiet. Waiting. Mr. Parker, from Texas."
 - **Model:** Stable Diffusion XL
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/inpursuitofstolenghosts?tab=readme-ov-file)
 - [LIVE APP](https://inpursuitoftolenghosts.vercel.app/)
-
 
 ### Hyper-elements in Latent Space (Autonomous Duet)
 - **Model:** Stable Diffusion XL
@@ -167,7 +174,6 @@ ________________________________________
 - **Model:** MediaPipeGesture Recognition
 - [GitHub Repository with project description  code and live app](https://github.com/marlonbarrios/ahandisfourrelationships)
 - [LIVE APP](https://marlonbarrios.github.io/ahandisfourrelationships/)
-
 
 
 ### The Body of the Text
