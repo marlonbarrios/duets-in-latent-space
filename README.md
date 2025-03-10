@@ -54,7 +54,7 @@ Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the P
 
 ### Mr Parker (in progress)
 
-<img width="1770" alt="Screenshot 2025-03-10 at 3 12 39 PM" src="https://github.com/user-attachments/assets/5aa440a4-76b0-4cd3-a914-dd678a472f82" />
+<img width="1770" alt="Screenshot 2025-03-10 at 3 12 39 PM" src="https://github.com/user-attachments/assets/5aa440a4-76b0-4cd3-a914-dd678a472f82" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500" />
 
  "I was 8. A Sunday, warm. We went to Mr. Parker’s house. My grandmother’s boss. He was from Texas, she said. A big place, far off. Didn’t know much about it. Only the name. Texas. He worked for La Creole. The oil company. My grandmother, self-taught in English, had worked her way up to this. Proud. 
  
@@ -116,7 +116,7 @@ Quiet. Waiting. Mr. Parker, from Texas."
 
 ### Bauhaus Time Traveller STRIPPERS (Crossfading)
 
-<img width="1541" alt="Screenshot 2025-03-10 at 3 44 59 PM" src="https://github.com/user-attachments/assets/3ccebb00-f33f-4176-8de5-8a555065556f" />
+<img width="1541" alt="Screenshot 2025-03-10 at 3 44 59 PM" src="https://github.com/user-attachments/assets/3ccebb00-f33f-4176-8de5-8a555065556f" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500" />
 
 - **Model:** Stable Diffusion XL
   
@@ -131,7 +131,7 @@ Quiet. Waiting. Mr. Parker, from Texas."
 
 ### Instrumental Proximities
 
-<img width="898" alt="Screenshot 2025-03-09 at 1 40 45 PM" src="https://github.com/user-attachments/assets/55bc934b-4efa-4275-94fb-73101a8dfeb0" />
+<img width="898" alt="Screenshot 2025-03-09 at 1 40 45 PM" src="https://github.com/user-attachments/assets/55bc934b-4efa-4275-94fb-73101a8dfeb0" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500" />
 
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/instrumentalproximities)
 
@@ -141,7 +141,7 @@ Quiet. Waiting. Mr. Parker, from Texas."
 ### Impossible Simplicity
 - **Model:** MediaPipe Pose Landmark
 
-<img width="1445" alt="Screenshot 2025-03-10 at 3 48 45 PM" src="https://github.com/user-attachments/assets/1cee9259-bbf6-4cee-9c3b-55799828b4c7" />
+<img width="1445" alt="Screenshot 2025-03-10 at 3 48 45 PM" src="https://github.com/user-attachments/assets/1cee9259-bbf6-4cee-9c3b-55799828b4c7" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500" />
 
 <img src="https://github.com/user-attachments/assets/68f602a9-bca5-49dc-ae08-1af44da6cfc2" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
