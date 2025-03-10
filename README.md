@@ -53,7 +53,7 @@ Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the P
 
 ### Mr Parker (in progress)
 
-<img width="1770" alt="Screenshot 2025-03-10 at 3 12 39 PM" src="https://github.com/user-attachments/assets/5aa440a4-76b0-4cd3-a914-dd678a472f82" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500" />
+<img src="https://github.com/user-attachments/assets/5aa440a4-76b0-4cd3-a914-dd678a472f82" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500" />
 
  "I was 8. A Sunday, warm. We went to Mr. Parker’s house. My grandmother’s boss. He was from Texas, she said. A big place, far off. Didn’t know much about it. Only the name. Texas. He worked for La Creole. The oil company. My grandmother, self-taught in English, had worked her way up to this. Proud. 
  
