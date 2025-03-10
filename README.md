@@ -116,6 +116,8 @@ Quiet. Waiting. Mr. Parker, from Texas."
 
 ### Bauhaus Time Traveller STRIPPERS (Crossfading)
 
+<img width="1541" alt="Screenshot 2025-03-10 at 3 44 59 PM" src="https://github.com/user-attachments/assets/3ccebb00-f33f-4176-8de5-8a555065556f" />
+
 - **Model:** Stable Diffusion XL
   
 - [GitHub Repository](https://github.com/marlonbarrios/bauhaus-time-traveler-strippers-crossfading)
