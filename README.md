@@ -37,7 +37,8 @@ It can be adapted to be presented as installation-performances, installations, o
 
 ### Walking in an Exagerated Manner Around the Perimeter of a Square
 
-<img src="https://github.com/user-attachments/assets/febed3f2-e25e-4101-a840-c26f3338998f" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
+<img src="https://github.com/user-attachments/assets/0b85c647-96ff-4cde-97b1-11bd73ab5e48" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
+
 
 [Video](https://www.artforum.com/video/bruce-naumans-walking-in-an-exaggerated-manner-161646/)
 
