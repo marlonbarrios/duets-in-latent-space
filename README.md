@@ -67,7 +67,9 @@ Goosebumps rose on my arms, even though it was warm. He smiled. I remember that.
 
 Quiet. Waiting. Mr. Parker, from Texas."
 
-- [LIVE APP](https://neural-hyper-object.vercel.app/)
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/lookingformrparker?tab=readme-ov-file)
+
+- [LIVE APP](https://lookingformrparker.vercel.app/)
 
 ### Extraordinary Alien
 
@@ -118,7 +120,6 @@ Quiet. Waiting. Mr. Parker, from Texas."
 - [LIVE APP](https://bauhaus-timetraveler-stripper.vercel.app/)
 
 ### Instrumental Proximities
-
 
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/instrumentalproximities)
 
