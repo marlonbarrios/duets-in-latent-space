@@ -35,6 +35,16 @@ It can be adapted to be presented as installation-performances, installations, o
 
 ## Time is Love Story (version)
 
+### All Watched Over by Machines of Loving Grace
+
+<img width="1920" alt="Screenshot 2025-03-11 at 3 18 24 PM" src="https://github.com/user-attachments/assets/ceb8f2e4-557e-4cc7-bd0b-9b4a9e36e5d3" />
+
+
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/alwatchedoverbymachinesoflovinggrace)
+
+- [LIVE APP](https://marlonbarrios.github.io/alwatchedoverbymachinesoflovinggrace/)
+
+
 ### Walking in an Exagerated Manner Around the Perimeter of a Square
 
 <img src="https://github.com/user-attachments/assets/0b85c647-96ff-4cde-97b1-11bd73ab5e48" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
