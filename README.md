@@ -54,11 +54,21 @@ It can be adapted to be presented as installation-performances, installations, o
 
 Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the Perimeter of a Square (1967-68) served as a template for my  exploration of what is considered canonical or a model. I use the square as a metaphor for inhabiting the alien—performing the alienation that stands in contrast to the normative, disciplined body. By exaggerating movement, Marlon interrogates the boundaries of conceptual experimentation, viewing it through the lens of white privilege. This perspective calls attention to how certain bodies and practices are excluded or marginalized within the same conceptual frameworks that define avant-garde art, subtly critiquing the institutionalization of experimentalism as an exclusive realm of white privilege. It represents the internalized latent space as an square.
 
+### Cyber Blue
+
+<img width="1518" alt="Screenshot 2025-03-11 at 5 32 32 PM" src="https://github.com/user-attachments/assets/1da07466-80c6-44fc-b14c-7067f65615c6" />
+
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/cyberblue)
+
+- - [LIVE APP](https://marlonbarrios.github.io/cyberblue/)
+
+
 ### Canonical (memory warmup/accumulation in Space and time))
 
 <img src="https://github.com/user-attachments/assets/f5584ea8-a7df-4440-a683-060a961c7de7" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/canonical01?tab=readme-ov-file)
+- 
 - [LIVE APP](https://marlonbarrios.github.io/canonical01/)
 
 ### Mr Parker (in progress)
@@ -123,6 +133,18 @@ Quiet. Waiting. Mr. Parker, from Texas."
 [Video of bauhaus time travelers Duets in Latent Space @Live Arts Festival 2024 Cape Town](https://youtu.be/8mCOuFeESII?si=R3NbC9xvRUUHXgci)
 
 [VIDEO CAPTURE OF APP](https://www.youtube.com/watch?v=aR0nK-Xl_E4&t=37s)
+
+### Bauhaus Time Traveller (Overlay Version)
+
+<img width="1938" alt="Screenshot 2025-03-11 at 7 06 22 PM" src="https://github.com/user-attachments/assets/2ba4c9e3-9c44-4f06-8bc5-d9f66aff3db3" />
+
+- **Model:** Stable Diffusion XL
+ 
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaustimetravelers_overlay)
+  
+- [LIVE APP](https://bauhaustimetravelers-overlay.vercel.app/)
+
+[VIDEO CAPTURE OF APP](https://www.youtube.com/watch?v=jUfdvWQZAqE&t=2s)
 
 ### Bauhaus Time Traveller STRIPPERS (Crossfading)
 
