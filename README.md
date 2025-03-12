@@ -92,8 +92,6 @@ Quiet. Waiting. Mr. Parker, from Texas."
 
 ### Extraordinary Alien
 
- <img src="https://github.com/user-attachments/assets/541f2361-3e2a-4a0f-aa8e-16248001a0c0" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
- 
 - **Model:** MediaPipeGesture Recognition
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/extraordinary_alien2)
 - [LIVE APP](https://marlonbarrios.github.io/extraordinary_alien2/)
@@ -112,8 +110,10 @@ Quiet. Waiting. Mr. Parker, from Texas."
 
 ### In Pursuit of Stolen Ghosts (DRAWING TOOL VERSION)
 
+ <img src="https://github.com/user-attachments/assets/541f2361-3e2a-4a0f-aa8e-16248001a0c0" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
+ 
 - **Model:** Stable Diffusion XL
-- 
+ 
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)
 - [LIVE APP](https://in-pursuit-of-stolen-ghosts.vercel.app/)
 
