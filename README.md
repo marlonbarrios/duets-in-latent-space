@@ -172,14 +172,15 @@ Quiet. Waiting. Mr. Parker, from Texas."
 
 ### Impossible Simplicity
 - **Model:** MediaPipe Pose Landmark
+<img width="1658" alt="Screenshot 2025-03-12 at 11 04 49 PM" src="https://github.com/user-attachments/assets/f04d6536-7fa4-42c5-a8b9-d987038da495" />
+<img width="1658" alt="Screenshot 2025-03-12 at 11 04 56 PM" src="https://github.com/user-attachments/assets/fbae09ec-43b3-47ab-a637-a5d35b7913bc" />
 
-<img src="https://github.com/user-attachments/assets/1cee9259-bbf6-4cee-9c3b-55799828b4c7" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500" />
 
 <img src="https://github.com/user-attachments/assets/68f602a9-bca5-49dc-ae08-1af44da6cfc2" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossible-simplicity)
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossiblesimplicity)
   
-- [LIVE APP](https://marlonbarrios.github.io/impossible-simplicity/)
+- [LIVE APP](https://marlonbarrios.github.io/impossiblesimplicity/)
 
 +++++++++++++++++++++++++++++++++++++++++++++
 
