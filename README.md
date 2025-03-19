@@ -35,6 +35,15 @@ It can be adapted to be presented as installation-performances, installations, o
 
 ## Time is Love Story (version)
 
+### Walking in an Exagerated Manner Around the Perimeter of a Square
+
+<img src="https://github.com/user-attachments/assets/0b85c647-96ff-4cde-97b1-11bd73ab5e48" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
+
+
+[Video](https://www.artforum.com/video/bruce-naumans-walking-in-an-exaggerated-manner-161646/)
+
+Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the Perimeter of a Square (1967-68) served as a template for my  exploration of what is considered canonical or a model. I use the square as a metaphor for inhabiting the alien—performing the alienation that stands in contrast to the normative, disciplined body. By exaggerating movement, Marlon interrogates the boundaries of conceptual experimentation, viewing it through the lens of white privilege. This perspective calls attention to how certain bodies and practices are excluded or marginalized within the same conceptual frameworks that define avant-garde art, subtly critiquing the institutionalization of experimentalism as an exclusive realm of white privilege. It represents the internalized latent space as an square.
+
 ### All Watched Over by Machines of Loving Grace
 
 <img width="1920" alt="Screenshot 2025-03-11 at 3 18 24 PM" src="https://github.com/user-attachments/assets/ceb8f2e4-557e-4cc7-bd0b-9b4a9e36e5d3" />
@@ -45,14 +54,6 @@ It can be adapted to be presented as installation-performances, installations, o
 - [LIVE APP](https://marlonbarrios.github.io/alwatchedoverbymachinesoflovinggrace/)
 
 
-### Walking in an Exagerated Manner Around the Perimeter of a Square
-
-<img src="https://github.com/user-attachments/assets/0b85c647-96ff-4cde-97b1-11bd73ab5e48" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
-
-
-[Video](https://www.artforum.com/video/bruce-naumans-walking-in-an-exaggerated-manner-161646/)
-
-Bruce Nauman’s video performance Walking in an Exaggerated Manner Around the Perimeter of a Square (1967-68) served as a template for my  exploration of what is considered canonical or a model. I use the square as a metaphor for inhabiting the alien—performing the alienation that stands in contrast to the normative, disciplined body. By exaggerating movement, Marlon interrogates the boundaries of conceptual experimentation, viewing it through the lens of white privilege. This perspective calls attention to how certain bodies and practices are excluded or marginalized within the same conceptual frameworks that define avant-garde art, subtly critiquing the institutionalization of experimentalism as an exclusive realm of white privilege. It represents the internalized latent space as an square.
 
 ### Cyber Blue
 
