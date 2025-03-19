@@ -103,6 +103,20 @@ Quiet. Waiting. Mr. Parker, from Texas."
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)
 - [LIVE APP](https://entropic-haiku.vercel.app/)
 
+
+### TongueZap: The Hungry Chameleon Game
+
+![Gameplay Screenshot](https://github.com/user-attachments/assets/bd613b3e-97e5-4016-8a6d-23a1845d07f5)
+
+TongueZap is an interactive webcam game where you become a chameleon trying to catch flies with your tongue. Using face detection technology, the game tracks your facial movements and lets you catch flies by opening your mouth.
+
+## 🎮 Live App
+  [Play Now](https://marlonbarrios.github.io/tonguezap/)
+
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/tonguezap)
+
+
+
 ### Conversations with a Possible Mind
 
 - [LIVE APP](https://empathic-voice-interface-starter-khyysvvqd.vercel.app/)
