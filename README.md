@@ -37,7 +37,6 @@ It can be adapted as installation-performances, installations, online apps, and 
 
 ---
 
-## Time is Love Story (version)
 
 ### Walking in an Exaggerated Manner Around the Perimeter of a Square
 
@@ -199,13 +198,13 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 - [GitHub Repo](https://github.com/marlonbarrios/pseudo_ouroboros)  
 - [LIVE APP](https://marlonbarrios.github.io/pseudo_ouroboros/)
 
-+++++++++++++++++++++++++++++++++++++++++++++
+### Time is Love Story (version)
 
 ### Proteans
 
-### Gingers are...
-
 ### sunyatta
+
++++++++++++++++++++++++++++++++++++++++++++++
 
 ### In Pursuit of Stolen Ghosts (GENERATIVE-INTERACTIVE VERSION AND BROWN COLORS)
 
