@@ -1,6 +1,6 @@
 # Duets in Latent Space
 
-<img src="https://github.com/user-attachments/assets/00aa7335-7b8d-4d6b-8d84-8e58fb9ca52c" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="500">
+<img src="https://github.com/user-attachments/assets/00aa7335-7b8d-4d6b-8d84-8e58fb9ca52c" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="800">
 
 **performance + creative coding + generative AI + sound + concept by Marlon Barrios Solano**
 
@@ -86,6 +86,13 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 
 - [GitHub Repository with project description and code](https://github.com/marlonbarrios/lookingformrparker?tab=readme-ov-file)
 - [LIVE APP](https://lookingformrparker.vercel.app/)
+
+### I am in love with Alan Turing
+
+<img src="https://github.com/user-attachments/assets/0247b5bd-9df9-4028-bae8-950115c1dca7" alt="Gameplay Screenshot" width="500">
+
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/alan-ai)
+- [LIVE APP](https://www.alan-ai.app/)
 
 ### Extraordinary Alien
 
