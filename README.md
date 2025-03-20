@@ -1,4 +1,4 @@
-# Duets in Latent Space
+# Born in Latent Space
 
 <img src="https://github.com/user-attachments/assets/00aa7335-7b8d-4d6b-8d84-8e58fb9ca52c" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="800">
 
@@ -7,9 +7,9 @@
 *This is the unseeable space in which machine learning makes its meaning. Beyond that which we are incapable of visualizing is that which we are incapable of even understanding.*  
 — James Bridle
 
-“Duets in Latent Space” is a live collaboration between the artist—situated before a laptop—and machine learning models and their enigmatic latent space. Through various forms of input, whether they be movements, sounds, or digital interactions, the AI responds in kind, generating visual, auditory, or textual outputs that are played back in real time.
+“Born in Latent Space” is a live collaboration between the artist—situated before a laptop—and machine learning models and their enigmatic latent space. Through various forms of input, whether they be movements, sounds, or digital interactions, the AI responds in kind, generating visual, auditory, or textual outputs that are played back in real time.
 
-“Duets in Latent Space” is conceived as a lecture-performance interacting with web apps programmed by the artist, attempting to make tangible the remembered, the affective, and the speculative. It combines a series of vignettes, story-telling, interfaces, software, movement scores, and re-performances, weaving trajectories of cybernetics, time travel, queer longing, recursion, and migrations with algorithmic playfulness.
+“Born in Latent Space” is conceived as a lecture-performance interacting with web apps programmed by the artist, attempting to make tangible the remembered, the affective, and the speculative. It combines a series of vignettes, story-telling, interfaces, software, movement scores, and re-performances, weaving trajectories of cybernetics, time travel, queer longing, recursion, and migrations with algorithmic playfulness.
 
 Latent space, in the realm of machine learning and artificial intelligence, refers to a high-dimensional abstract space where data’s intrinsic, hidden features are represented in a compressed form. This space is particularly significant in the context of generative models—such as Generative Adversarial Networks (GANs) and transformers—where it serves as the groundwork for models to learn, encode, and manipulate the underlying patterns of the data they’re trained on. By navigating through this latent space, these models can generate new instances of data that, while reflective of the learned patterns, are distinct and original.
 
@@ -36,7 +36,6 @@ It can be adapted as installation-performances, installations, online apps, and 
 ## Nodes or Vignettes
 
 ---
-
 
 ### Walking in an Exaggerated Manner Around the Perimeter of a Square
 
@@ -111,8 +110,6 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 
 TongueZap is an interactive webcam game where you become a chameleon trying to catch flies with your tongue. Using face detection technology, the game tracks your facial movements and lets you catch flies by opening your mouth.
 
----
-
 ## 🎮 Live App
 
 [Play Now](https://marlonbarrios.github.io/tonguezap/)
@@ -135,6 +132,12 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 
 [Video of In Pursuit of Stolen Ghosts – Duets in Latent Space performed @ Live Arts Festival 2024 | Cape Town](https://youtu.be/iZm7Jda1kMk?si=f4MVjueWTCQCs8aJ)  
 [VIDEO CAPTURE OF APP](https://youtu.be/TtKQDcp93tY?si=mkeIH5Fsj6dFdYVW)
+
+### In Pursuit of Stolen Ghosts (GENERATIVE-INTERACTIVE VERSION AND BROWN COLORS)
+
+- **Model:** Stable Diffusion XL  
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/inpursuitofstolenghosts?tab=readme-ov-file)  
+- [LIVE APP](https://inpursuitoftolenghosts.vercel.app/)
 
 ### Bauhaus Time Traveller
 
@@ -204,13 +207,9 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 
 ### sunyatta
 
+### Can you help me?
+
 +++++++++++++++++++++++++++++++++++++++++++++
-
-### In Pursuit of Stolen Ghosts (GENERATIVE-INTERACTIVE VERSION AND BROWN COLORS)
-
-- **Model:** Stable Diffusion XL  
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/inpursuitofstolenghosts?tab=readme-ov-file)  
-- [LIVE APP](https://inpursuitoftolenghosts.vercel.app/)
 
 ### Hyper-elements in Latent Space (Autonomous Duet)
 
@@ -245,7 +244,6 @@ Daniel
 Symbiont  
 paxton-Brooks  
 the golden braid  
-sunyata  
 Husky  
 Pangea  
 smuggling meaning  
@@ -253,7 +251,7 @@ fragmentation
 
 ### Remembering Steve Paxton (1939-2024)
 
-*Developed at Art and Research Residency at Lake Studios Berlin, February 2024*
+*Initail concept and apps developed at Art and Research Residency at Lake Studios Berlin, February 2024*
 
 ---
 
