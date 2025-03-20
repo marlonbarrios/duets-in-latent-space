@@ -1,6 +1,6 @@
 # Born in Latent Space
 
-<img src="https://github.com/user-attachments/assets/00aa7335-7b8d-4d6b-8d84-8e58fb9ca52c" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="800">
+<img src="https://github.com/user-attachments/assets/00aa7335-7b8d-4d6b-8d84-8e58fb9ca52c" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
 
 **performance + creative coding + generative AI + sound + concept by Marlon Barrios Solano**
 
