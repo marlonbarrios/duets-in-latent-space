@@ -85,12 +85,6 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 - [GitHub Repository with project description and code](https://github.com/marlonbarrios/lookingformrparker?tab=readme-ov-file)
 - [LIVE APP](https://lookingformrparker.vercel.app/)
 
-### I am in love with Alan Turing
-
-<img src="https://github.com/user-attachments/assets/0247b5bd-9df9-4028-bae8-950115c1dca7" alt="Gameplay Screenshot" width="500">
-
-- [GitHub Repository with project description and code](https://github.com/marlonbarrios/alan-ai)
-- [LIVE APP](https://www.alan-ai.app/)
 
 ### Extraordinary Alien
 
@@ -98,12 +92,18 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/extraordinary_alien2)  
 - [LIVE APP](https://marlonbarrios.github.io/extraordinary_alien2/)
 
+### I am in love with Alan Turing
+
+<img src="https://github.com/user-attachments/assets/0247b5bd-9df9-4028-bae8-950115c1dca7" alt="Gameplay Screenshot" width="500">
+
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/alan-ai)
+- [LIVE APP](https://www.alan-ai.app/)
+
 ### Entropic Haiku
 
 - **Model:** GPT-4  
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)  
 - [LIVE APP](https://entropic-haiku.vercel.app/)
-
 
 ### Conversations with a Possible Mind
 
