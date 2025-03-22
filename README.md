@@ -145,6 +145,10 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 
 - [GitHub Repository with project description and code](https://github.com/marlonbarrios/tonguezap)
 
+### PROTEUS
+
+- [LIVE APP](https://proteus-umber.vercel.app/)
+
 ### Bauhaus Time Traveller
 
 <img src="https://github.com/user-attachments/assets/856fd501-e4b2-45ee-864c-bf7ad6eeff05" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
@@ -207,13 +211,13 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 - [GitHub Repo](https://github.com/marlonbarrios/pseudo_ouroboros)  
 - [LIVE APP](https://marlonbarrios.github.io/pseudo_ouroboros/)
 
+### Śūnyatā
+- [LIVE APP](https://noiseinlatentspace.vercel.app/)
+
 ### Time is Love Story (version)
 
 ### Proteans
 
-### sunyatta
-
-### Can you help me?
 
 +++++++++++++++++++++++++++++++++++++++++++++
 
