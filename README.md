@@ -104,23 +104,17 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)  
 - [LIVE APP](https://entropic-haiku.vercel.app/)
 
-### TongueZap: The Hungry Chameleon Game
-
-<img src="https://github.com/user-attachments/assets/bd613b3e-97e5-4016-8a6d-23a1845d07f5" alt="Gameplay Screenshot" width="500">
-
-TongueZap is an interactive webcam game where you become a chameleon trying to catch flies with your tongue. Using face detection technology, the game tracks your facial movements and lets you catch flies by opening your mouth.
-
-## 🎮 Live App
-
-[Play Now](https://marlonbarrios.github.io/tonguezap/)
-
-- [GitHub Repository with project description and code](https://github.com/marlonbarrios/tonguezap)
 
 ### Conversations with a Possible Mind
 
 - [LIVE APP](https://empathic-voice-interface-starter-khyysvvqd.vercel.app/)
 
 [VIDEO of Conversations with Possible Minds – Duets in Latent Space @ Live Arts Festival 2024 Cape Town, SA](https://youtu.be/WNAUKmtXF6g?si=P_j_7FI9gcGLN3R4)
+
+### Patient X: Can you help please?
+
+- [LIVE APP](https://patientx-83md.vercel.app/)
+
 
 ### In Pursuit of Stolen Ghosts (DRAWING TOOL VERSION)
 
@@ -138,6 +132,18 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 - **Model:** Stable Diffusion XL  
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/inpursuitofstolenghosts?tab=readme-ov-file)  
 - [LIVE APP](https://inpursuitoftolenghosts.vercel.app/)
+
+### TongueZap: The Hungry Chameleon Game
+
+<img src="https://github.com/user-attachments/assets/bd613b3e-97e5-4016-8a6d-23a1845d07f5" alt="Gameplay Screenshot" width="500">
+
+TongueZap is an interactive webcam game where you become a chameleon trying to catch flies with your tongue. Using face detection technology, the game tracks your facial movements and lets you catch flies by opening your mouth.
+
+## 🎮 Live App
+
+[Play Now](https://marlonbarrios.github.io/tonguezap/)
+
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/tonguezap)
 
 ### Bauhaus Time Traveller
 
