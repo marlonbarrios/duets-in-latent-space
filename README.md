@@ -242,11 +242,9 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 
 **Digretions in Latent Space (The Music Album** is a collection of 14 tracks created to support the performance lecture Born in Latent Space
 
-<img width="1304" alt="Screenshot 2025-04-03 at 6 35 37 PM" src="https://github.com/user-attachments/assets/f04d6536-7fa4-42c5-a8b9-d987038da495"  alt="Screenshot 2025-03-12 at 11 04 49 PM" width="500" />
-
+<img alt="Screenshot 2025-04-03 at 6 35 37 PM" src="https://github.com/user-attachments/assets/ff370dbd-fc8e-42c1-ad5f-10b1d7038af7"  alt="Screenshot 2025-03-12 at 11 04 49 PM" width="500" />
 
 [ALBUM](https://marlonbarriossolano.bandcamp.com/album/digressions-in-latent-space)
-
 
 +++++++++++++++++++++++++++++++++++++++++++++
 
