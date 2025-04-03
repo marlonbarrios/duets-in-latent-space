@@ -240,12 +240,19 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 ### Śūnyatā
 - [LIVE APP](https://noiseinlatentspace.vercel.app/)
 
-### Time is Love Story (version)
+**Digretions in Latent Space (The Music Album** is a collection of 14 tracks created to support the performance lecture Born in Latent Space
 
-### Proteans
+<img width="1304" alt="Screenshot 2025-04-03 at 6 35 37 PM" src="https://github.com/user-attachments/assets/7fe6ca85-2b6a-40c7-8f85-9d5c4d1932bc"  alt="Screenshot 2025-03-12 at 11 04 49 PM" width="500" />
+
+[ALBUM](https://marlonbarriossolano.bandcamp.com/album/digressions-in-latent-space)
+
 
 
 +++++++++++++++++++++++++++++++++++++++++++++
+
+### Time is Love Story (version)
+
+### Proteans
 
 ### Hyper-elements in Latent Space (Autonomous Duet)
 
@@ -255,6 +262,7 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 - [LIVE APP](https://hyperelement.vercel.app/)
 
 ________________________________________
+
 
 ### Pulling Molecules
 
