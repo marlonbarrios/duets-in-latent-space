@@ -20,6 +20,7 @@ Central to this project are several technologies: **p5.js** (for creative coding
 **Duration:** 25 to 45 minutes (adjusted to the context and venue)
 
 **It has been presented at:**
+- **XR Sunday Social at A+E Lab** @ A+E Lab Chatham, UK – **March 23th, 2025**
 - **Summit: AI and the Future of Performance** @ University of the Arts of London, London, UK – **March 18th, 2025**
 - **AI and Research Celebration** @ College of Medicine UF, Gainesville, Florida, USA – **February 24th, 2025**
 - **FLOAT Polycrisis** @ How Bazar, Gainesville, Florida, USA – **November 13th, 2024**
