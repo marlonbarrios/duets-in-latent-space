@@ -71,6 +71,21 @@ It can be adapted as installation-performances, installations, online apps, and 
 
 Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the Perimeter of a Square* (1967–68) served as a template for my exploration of what is considered canonical or a model. I use the square as a metaphor for inhabiting the alien—performing the alienation that stands in contrast to the normative, disciplined body. By exaggerating movement, Marlon interrogates the boundaries of conceptual experimentation, viewing it through the lens of white privilege. This perspective calls attention to how certain bodies and practices are excluded or marginalized within the same conceptual frameworks that define avant-garde art, subtly critiquing the institutionalization of experimentalism as an exclusive realm of white privilege. It represents the internalized latent space as a square.
 
+### Pseudo Ouroboros: The Genesis of Self Interest in Gradient Descent
+
+<img src="https://github.com/user-attachments/assets/72cc6de8-a554-4349-b71e-1b7c63be07a5" alt="Screenshot 2025-03-09 at 4 31 52 PM" width="500">
+
+**Pseudo Ouroboros** is an experimental interactive generative art project that fuses intricate visual patterns with dynamic audio synthesis. Inspired by self-organizing systems and the iterative nature of gradient descent, this project simulates a snake-like organism that continuously evolves—mimicking the ancient symbol of eternal cyclic renewal, the Ouroboros.
+
+- [GitHub Repo](https://github.com/marlonbarrios/pseudo_ouroboros)  
+- [LIVE APP](https://marlonbarrios.github.io/pseudo_ouroboros/)
+
+### A Hand is Four Relationships
+
+- **Model:** MediaPipeGesture Recognition  
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/ahandisfourrelationships)  
+- [LIVE APP](https://marlonbarrios.github.io/ahandisfourrelationships/)
+
 ### All Watched Over by Machines of Loving Grace
 
 <img src="https://github.com/user-attachments/assets/ceb8f2e4-557e-4cc7-bd0b-9b4a9e36e5d3" alt="Screenshot 2025-03-11 at 3 18 24 PM" width="500">
@@ -92,7 +107,7 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/canonical01?tab=readme-ov-file)
 - [LIVE APP](https://marlonbarrios.github.io/canonical01/)
 
-### Mr Parker (in progress)
+### We are all looking for Mr Parker
 
 <img src="https://github.com/user-attachments/assets/5aa440a4-76b0-4cd3-a914-dd678a472f82" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
@@ -228,14 +243,6 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossiblesimplicity)  
 - [LIVE APP](https://marlonbarrios.github.io/impossiblesimplicity/)
 
-### Pseudo Ouroboros: The Genesis of Self Interest in Gradient Descent
-
-<img src="https://github.com/user-attachments/assets/72cc6de8-a554-4349-b71e-1b7c63be07a5" alt="Screenshot 2025-03-09 at 4 31 52 PM" width="500">
-
-**Pseudo Ouroboros** is an experimental interactive generative art project that fuses intricate visual patterns with dynamic audio synthesis. Inspired by self-organizing systems and the iterative nature of gradient descent, this project simulates a snake-like organism that continuously evolves—mimicking the ancient symbol of eternal cyclic renewal, the Ouroboros.
-
-- [GitHub Repo](https://github.com/marlonbarrios/pseudo_ouroboros)  
-- [LIVE APP](https://marlonbarrios.github.io/pseudo_ouroboros/)
 
 ### Śūnyatā
 - [LIVE APP](https://noiseinlatentspace.vercel.app/)
@@ -251,6 +258,16 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 ### Time is Love Story (version)
 
 ### Proteans
+
+### Sens8 Orgy
+
+### Neutrinos
+
+### Symbionts 
+
+### Bonobos
+
+### Flat and Deep
 
 ### Hyper-elements in Latent Space (Autonomous Duet)
 
@@ -268,11 +285,6 @@ ________________________________________
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/pulling-molecules)  
 - [LIVE APP](https://marlonbarrios.github.io/pulling-molecules/)
 
-### A Hand is Four Relationships
-
-- **Model:** MediaPipeGesture Recognition  
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/ahandisfourrelationships)  
-- [LIVE APP](https://marlonbarrios.github.io/ahandisfourrelationships/)
 
 ### The Body of the Text
 
