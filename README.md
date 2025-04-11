@@ -45,6 +45,7 @@ In all its forms, Born in Latent Space invites audiences into the speculative an
 **Duration:** 25 to 45 minutes (adjusted to the context and venue)
 
 **It has been presented at:**
+- **Innovation Hub** @ , Florida State University, Talahassee, Florida, USA – **April 9th, 2025**
 - **XR Sunday Social at A+E Lab** @ A+E Lab Chatham, UK – **March 23th, 2025**
 - **Summit: AI and the Future of Performance** @ University of the Arts of London, London, UK – **March 18th, 2025**
 - **AI and Research Celebration** @ College of Medicine UF, Gainesville, Florida, USA – **February 24th, 2025**
