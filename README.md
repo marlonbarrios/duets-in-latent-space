@@ -187,6 +187,7 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 
 - [GitHub Repository with project description and code](https://github.com/marlonbarrios/tonguezap)
 
+
 ### PROTEUS
 
 - [LIVE APP](https://proteus-umber.vercel.app/)
@@ -225,6 +226,13 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 - **Model:** Stable Diffusion XL  
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler-strippers)  
 - [LIVE APP](https://bauhaus-timetraveler-stripper.vercel.app/)
+
+
+### Pangesa People | What if Europe never existed?
+
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/ogininarios)  
+- [LIVE APP](https://originarios.vercel.app/)
+
 
 ### Instrumental Proximities
 
