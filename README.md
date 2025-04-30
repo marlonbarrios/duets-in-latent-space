@@ -11,7 +11,7 @@ A Lecture-Performance by Marlon Barrios Solano
 
 Born in Latent Space is a live lecture-performance that unfolds as a speculative, real-time collaboration between the artist and machine learning models. Seated before a laptop, Marlon Barrios Solano engages with generative AI systems to explore latent space—conceived not only as a technical structure, but as a realm of all possible stories.
 
-Latent space, in machine learning, refers to a high-dimensional abstract representation of data where compressed, hidden features are encoded. In this piece, it becomes a poetic and political territory—an unstable, generative dimension where memory, desire, identity, and imagination recombine through algorithmic play.
+Latent space, in machine learning, refers to a high-dimensional abstract representation of data where compressed, hidden features are encoded. In this piece, it becomes a poetic and political territory—an unstable, generative dimension where memory, desire, identity, and imagination recombine through algorithmic play. In ML terms, each vignette functions as a seed, while the unfolding stories chart vectors through the latent space of every narrative that could exist.
 
 Through gestures, voice, and code, the performer navigates a shifting audiovisual landscape shaped by real-time responses from AI: generated text, images, and sound. The work combines storytelling, re-performance, movement scores, web-based interaction, and algorithmic improvisation.
 
@@ -60,7 +60,7 @@ It can be adapted as installation-performances, installations, online apps, and 
 
 ---
 
-## Nodes or Vignettes
+## Seeds and Vectors
 
 ---
 
