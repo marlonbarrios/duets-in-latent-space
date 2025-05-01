@@ -45,13 +45,12 @@ In all its forms, Born in Latent Space invites audiences into the speculative an
 **Duration:** 25 to 45 minutes (adjusted to the context and venue)
 
 **Upcoming Performances:**
-- **CAME Innovation Summit 2025** @ University of Florida, Gainesville, Florida, USA – **April 11 2025**
 
-- **OOTFest25 (UN)SEEN** @ Riverside Studios & Open Online Theatre, London, UK – **June 5 – 8 2025** – [Tickets](https://riversidestudios.co.uk/see-and-do/ootfest25-unseen-performances-172208/)  [oai_citation:0‡Riverside Studios](https://riversidestudios.co.uk/see-and-do/ootfest25-unseen-performances-172208/?utm_source=chatgpt.com)
+- **OOTFest25 (UN)SEEN** @ Riverside Studios & Open Online Theatre, London, UK – **June 5 – 8 2025** – [Tickets](https://riversidestudios.co.uk/see-and-do/ootfest25-unseen-performances-172208/)  [Riverside Studios](https://riversidestudios.co.uk/see-and-do/ootfest25-unseen-performances-172208/?utm_source=chatgpt.com)
 
-- **Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berlin, Germany – **July 21 – August 24 2025** – [Info & tickets](https://lakestudiosberlin.com/submerge-festival/)  [oai_citation:1‡Lake Studios Berlin](https://lakestudiosberlin.com/submerge-festival/?utm_source=chatgpt.com)
+- **Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berlin, Germany – **July 21 – August 24 2025** – [Info & tickets](https://lakestudiosberlin.com/submerge-festival/)  [Lake Studios Berlin](https://lakestudiosberlin.com/submerge-festival/?utm_source=chatgpt.com)
 
-- **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [oai_citation:2‡theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com)
+- **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com)
 
 **It has been presented at:**
 
